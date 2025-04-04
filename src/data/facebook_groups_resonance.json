@@ -1,0 +1,514 @@
+[
+    {
+        "time": 1704585600000,
+        "text": 55,
+        "likesCount": 8,
+        "sharesCount": 1,
+        "commentsCount": 32,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1705190400000,
+        "text": 88,
+        "likesCount": 24,
+        "sharesCount": 11,
+        "commentsCount": 113,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1705795200000,
+        "text": 79,
+        "likesCount": 36,
+        "sharesCount": 4,
+        "commentsCount": 113,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1706400000000,
+        "text": 57,
+        "likesCount": 29,
+        "sharesCount": 8,
+        "commentsCount": 29,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1707004800000,
+        "text": 100,
+        "likesCount": 63,
+        "sharesCount": 20,
+        "commentsCount": 190,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1707609600000,
+        "text": 104,
+        "likesCount": 62,
+        "sharesCount": 5,
+        "commentsCount": 130,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1708214400000,
+        "text": 91,
+        "likesCount": 77,
+        "sharesCount": 5,
+        "commentsCount": 98,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1708819200000,
+        "text": 102,
+        "likesCount": 59,
+        "sharesCount": 2,
+        "commentsCount": 111,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1709424000000,
+        "text": 68,
+        "likesCount": 23,
+        "sharesCount": 4,
+        "commentsCount": 49,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1710028800000,
+        "text": 62,
+        "likesCount": 40,
+        "sharesCount": 2,
+        "commentsCount": 67,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1710633600000,
+        "text": 67,
+        "likesCount": 18,
+        "sharesCount": 2,
+        "commentsCount": 48,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1711238400000,
+        "text": 63,
+        "likesCount": 51,
+        "sharesCount": 9,
+        "commentsCount": 31,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1711843200000,
+        "text": 24,
+        "likesCount": 25,
+        "sharesCount": 1,
+        "commentsCount": 26,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1712448000000,
+        "text": 31,
+        "likesCount": 13,
+        "sharesCount": 0,
+        "commentsCount": 20,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1713052800000,
+        "text": 69,
+        "likesCount": 34,
+        "sharesCount": 3,
+        "commentsCount": 48,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1713657600000,
+        "text": 55,
+        "likesCount": 19,
+        "sharesCount": 0,
+        "commentsCount": 35,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1714262400000,
+        "text": 65,
+        "likesCount": 39,
+        "sharesCount": 5,
+        "commentsCount": 91,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1714867200000,
+        "text": 43,
+        "likesCount": 16,
+        "sharesCount": 0,
+        "commentsCount": 29,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1715472000000,
+        "text": 66,
+        "likesCount": 16,
+        "sharesCount": 0,
+        "commentsCount": 21,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1716076800000,
+        "text": 52,
+        "likesCount": 22,
+        "sharesCount": 0,
+        "commentsCount": 16,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1716681600000,
+        "text": 69,
+        "likesCount": 23,
+        "sharesCount": 2,
+        "commentsCount": 32,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1717286400000,
+        "text": 59,
+        "likesCount": 47,
+        "sharesCount": 4,
+        "commentsCount": 39,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1717891200000,
+        "text": 82,
+        "likesCount": 58,
+        "sharesCount": 2,
+        "commentsCount": 163,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1718496000000,
+        "text": 94,
+        "likesCount": 39,
+        "sharesCount": 1,
+        "commentsCount": 175,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1719100800000,
+        "text": 101,
+        "likesCount": 45,
+        "sharesCount": 3,
+        "commentsCount": 144,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1719705600000,
+        "text": 105,
+        "likesCount": 58,
+        "sharesCount": 5,
+        "commentsCount": 121,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1720310400000,
+        "text": 92,
+        "likesCount": 40,
+        "sharesCount": 5,
+        "commentsCount": 119,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1720915200000,
+        "text": 115,
+        "likesCount": 44,
+        "sharesCount": 10,
+        "commentsCount": 168,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1721520000000,
+        "text": 89,
+        "likesCount": 61,
+        "sharesCount": 35,
+        "commentsCount": 119,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1722124800000,
+        "text": 94,
+        "likesCount": 37,
+        "sharesCount": 19,
+        "commentsCount": 144,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1722729600000,
+        "text": 76,
+        "likesCount": 21,
+        "sharesCount": 3,
+        "commentsCount": 21,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1723334400000,
+        "text": 69,
+        "likesCount": 25,
+        "sharesCount": 13,
+        "commentsCount": 74,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1723939200000,
+        "text": 88,
+        "likesCount": 24,
+        "sharesCount": 0,
+        "commentsCount": 73,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1724544000000,
+        "text": 68,
+        "likesCount": 21,
+        "sharesCount": 12,
+        "commentsCount": 15,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1725148800000,
+        "text": 82,
+        "likesCount": 38,
+        "sharesCount": 7,
+        "commentsCount": 69,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1725753600000,
+        "text": 78,
+        "likesCount": 37,
+        "sharesCount": 4,
+        "commentsCount": 74,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1726358400000,
+        "text": 55,
+        "likesCount": 21,
+        "sharesCount": 9,
+        "commentsCount": 45,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1726963200000,
+        "text": 79,
+        "likesCount": 24,
+        "sharesCount": 3,
+        "commentsCount": 7,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1727568000000,
+        "text": 86,
+        "likesCount": 32,
+        "sharesCount": 0,
+        "commentsCount": 62,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1728172800000,
+        "text": 70,
+        "likesCount": 14,
+        "sharesCount": 5,
+        "commentsCount": 15,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1728777600000,
+        "text": 63,
+        "likesCount": 17,
+        "sharesCount": 6,
+        "commentsCount": 18,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1729382400000,
+        "text": 77,
+        "likesCount": 25,
+        "sharesCount": 3,
+        "commentsCount": 13,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1729987200000,
+        "text": 74,
+        "likesCount": 24,
+        "sharesCount": 1,
+        "commentsCount": 10,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1730592000000,
+        "text": 71,
+        "likesCount": 21,
+        "sharesCount": 0,
+        "commentsCount": 8,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1731196800000,
+        "text": 98,
+        "likesCount": 37,
+        "sharesCount": 4,
+        "commentsCount": 34,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1731801600000,
+        "text": 63,
+        "likesCount": 24,
+        "sharesCount": 3,
+        "commentsCount": 50,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1732406400000,
+        "text": 96,
+        "likesCount": 42,
+        "sharesCount": 5,
+        "commentsCount": 145,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1733011200000,
+        "text": 60,
+        "likesCount": 31,
+        "sharesCount": 6,
+        "commentsCount": 147,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1733616000000,
+        "text": 58,
+        "likesCount": 22,
+        "sharesCount": 0,
+        "commentsCount": 104,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1734220800000,
+        "text": 57,
+        "likesCount": 9,
+        "sharesCount": 0,
+        "commentsCount": 60,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1734825600000,
+        "text": 48,
+        "likesCount": 4,
+        "sharesCount": 1,
+        "commentsCount": 10,
+        "groupTitle": "Directorio de Colegios Guadalajara y ZMG"
+    },
+    {
+        "time": 1735430400000,
+        "text": 43,
+        "likesCount": 35,
+        "sharesCount": 0,
+        "commentsCount": 50,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1736035200000,
+        "text": 49,
+        "likesCount": 21,
+        "sharesCount": 1,
+        "commentsCount": 67,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1736640000000,
+        "text": 95,
+        "likesCount": 32,
+        "sharesCount": 10,
+        "commentsCount": 114,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1737244800000,
+        "text": 111,
+        "likesCount": 25,
+        "sharesCount": 3,
+        "commentsCount": 93,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1737849600000,
+        "text": 143,
+        "likesCount": 55,
+        "sharesCount": 2,
+        "commentsCount": 164,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1738454400000,
+        "text": 137,
+        "likesCount": 63,
+        "sharesCount": 2,
+        "commentsCount": 177,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1739059200000,
+        "text": 118,
+        "likesCount": 25,
+        "sharesCount": 8,
+        "commentsCount": 107,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1739664000000,
+        "text": 151,
+        "likesCount": 31,
+        "sharesCount": 4,
+        "commentsCount": 67,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1740268800000,
+        "text": 133,
+        "likesCount": 39,
+        "sharesCount": 1,
+        "commentsCount": 118,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1740873600000,
+        "text": 122,
+        "likesCount": 37,
+        "sharesCount": 3,
+        "commentsCount": 118,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1741478400000,
+        "text": 101,
+        "likesCount": 27,
+        "sharesCount": 1,
+        "commentsCount": 66,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1742083200000,
+        "text": 100,
+        "likesCount": 33,
+        "sharesCount": 7,
+        "commentsCount": 76,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    },
+    {
+        "time": 1742688000000,
+        "text": 32,
+        "likesCount": 3,
+        "sharesCount": 2,
+        "commentsCount": 9,
+        "groupTitle": "Mejores Colegios de Guadalajara"
+    }
+]
