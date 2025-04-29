@@ -13,7 +13,7 @@ export function groupstimeline(data, {width = 1000, height = 600} = {}) {
   const minDate = new Date(Math.min(...processedData.map(d => d.date)));
   const maxDate = new Date(Math.max(...processedData.map(d => d.date)));
 
-  return Plot.plot({
+  const plot = Plot.plot({
     title: "Actividad Total por Grupo",
     width,
     height,
@@ -42,15 +42,25 @@ export function groupstimeline(data, {width = 1000, height = 600} = {}) {
       label: "Grupos"
     },
     marks: [
-      Plot.areaY(processedData, {
+      Plot.areaY(processedData, Plot.stackY({
         x: "date",
         y: "totalEngagement",
         fill: "groupTitle",
         stroke: "white",
         strokeWidth: 1,
         opacity: 0.8
-      }),
+      })),
       Plot.ruleY([0])
-    ]
+    ],
+    interaction: {
+      hover: true,
+      click: true
+    }
   });
+
+  plot.addEventListener("input", (event) => {
+    console.log(plot.value);
+  });
+
+  return plot;
 } 

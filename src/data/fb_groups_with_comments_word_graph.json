@@ -1,0 +1,6331 @@
+{
+  "nodes": [
+    {
+      "id": "colegio",
+      "weight": 104512.0
+    },
+    {
+      "id": "recomiendo",
+      "weight": 40650.0
+    },
+    {
+      "id": "instituto",
+      "weight": 36221.0
+    },
+    {
+      "id": "primaria",
+      "weight": 35663.0
+    },
+    {
+      "id": "educación",
+      "weight": 34915.0
+    },
+    {
+      "id": "itea",
+      "weight": 34407.0
+    },
+    {
+      "id": "nivel",
+      "weight": 33019.0
+    },
+    {
+      "id": "hola",
+      "weight": 32653.0
+    },
+    {
+      "id": "zona",
+      "weight": 26294.0
+    },
+    {
+      "id": "avanzada",
+      "weight": 26032.0
+    },
+    {
+      "id": "si",
+      "weight": 25739.0
+    },
+    {
+      "id": "niños",
+      "weight": 25521.0
+    },
+    {
+      "id": "tecnológico",
+      "weight": 25128.0
+    },
+    {
+      "id": "guadalajara",
+      "weight": 24871.0
+    },
+    {
+      "id": "school",
+      "weight": 24470.0
+    },
+    {
+      "id": "zapopan",
+      "weight": 23819.0
+    },
+    {
+      "id": "kinder",
+      "weight": 23702.0
+    },
+    {
+      "id": "hijos",
+      "weight": 22433.0
+    },
+    {
+      "id": "bilingüe",
+      "weight": 21537.0
+    },
+    {
+      "id": "escuela",
+      "weight": 20968.0
+    },
+    {
+      "id": "buen",
+      "weight": 20842.0
+    },
+    {
+      "id": "horario",
+      "weight": 20236.0
+    },
+    {
+      "id": "excelente",
+      "weight": 19038.0
+    },
+    {
+      "id": "inglés",
+      "weight": 18872.0
+    },
+    {
+      "id": "preescolar",
+      "weight": 18785.0
+    },
+    {
+      "id": "centro",
+      "weight": 18487.0
+    },
+    {
+      "id": "campus",
+      "weight": 17892.0
+    },
+    {
+      "id": "extendido",
+      "weight": 17166.0
+    },
+    {
+      "id": "hija",
+      "weight": 16527.0
+    },
+    {
+      "id": "https",
+      "weight": 16078.0
+    },
+    {
+      "id": "escolar",
+      "weight": 15885.0
+    },
+    {
+      "id": "mejor",
+      "weight": 15735.0
+    },
+    {
+      "id": "felices",
+      "weight": 15134.0
+    },
+    {
+      "id": "ahí",
+      "weight": 14735.0
+    },
+    {
+      "id": "plaza",
+      "weight": 14550.0
+    },
+    {
+      "id": "opción",
+      "weight": 14468.0
+    },
+    {
+      "id": "hijo",
+      "weight": 14259.0
+    },
+    {
+      "id": "académico",
+      "weight": 13998.0
+    },
+    {
+      "id": "años",
+      "weight": 13905.0
+    },
+    {
+      "id": "colegios",
+      "weight": 13742.0
+    },
+    {
+      "id": "secundaria",
+      "weight": 12896.0
+    },
+    {
+      "id": "sur",
+      "weight": 12529.0
+    },
+    {
+      "id": "busco",
+      "weight": 11970.0
+    },
+    {
+      "id": "información",
+      "weight": 11864.0
+    },
+    {
+      "id": "bien",
+      "weight": 11556.0
+    },
+    {
+      "id": "buenas",
+      "weight": 11374.0
+    },
+    {
+      "id": "cerca",
+      "weight": 10612.0
+    },
+    {
+      "id": "gracias",
+      "weight": 10495.0
+    },
+    {
+      "id": "instalaciones",
+      "weight": 10486.0
+    },
+    {
+      "id": "sol",
+      "weight": 10477.0
+    }
+  ],
+  "links": [
+    {
+      "source": "colegio",
+      "target": "recomiendo",
+      "value": 1267.0
+    },
+    {
+      "source": "colegio",
+      "target": "instituto",
+      "value": 1275.0
+    },
+    {
+      "source": "colegio",
+      "target": "primaria",
+      "value": 1337.0
+    },
+    {
+      "source": "colegio",
+      "target": "educación",
+      "value": 1034.0
+    },
+    {
+      "source": "colegio",
+      "target": "itea",
+      "value": 999.0
+    },
+    {
+      "source": "colegio",
+      "target": "nivel",
+      "value": 984.0
+    },
+    {
+      "source": "colegio",
+      "target": "hola",
+      "value": 1032.0
+    },
+    {
+      "source": "colegio",
+      "target": "zona",
+      "value": 890.0
+    },
+    {
+      "source": "colegio",
+      "target": "avanzada",
+      "value": 775.0
+    },
+    {
+      "source": "colegio",
+      "target": "si",
+      "value": 534.0
+    },
+    {
+      "source": "colegio",
+      "target": "niños",
+      "value": 713.0
+    },
+    {
+      "source": "colegio",
+      "target": "tecnológico",
+      "value": 756.0
+    },
+    {
+      "source": "colegio",
+      "target": "guadalajara",
+      "value": 1085.0
+    },
+    {
+      "source": "colegio",
+      "target": "school",
+      "value": 1026.0
+    },
+    {
+      "source": "colegio",
+      "target": "zapopan",
+      "value": 923.0
+    },
+    {
+      "source": "colegio",
+      "target": "kinder",
+      "value": 632.0
+    },
+    {
+      "source": "colegio",
+      "target": "hijos",
+      "value": 681.0
+    },
+    {
+      "source": "colegio",
+      "target": "bilingüe",
+      "value": 762.0
+    },
+    {
+      "source": "colegio",
+      "target": "escuela",
+      "value": 593.0
+    },
+    {
+      "source": "colegio",
+      "target": "buen",
+      "value": 709.0
+    },
+    {
+      "source": "colegio",
+      "target": "horario",
+      "value": 671.0
+    },
+    {
+      "source": "colegio",
+      "target": "excelente",
+      "value": 638.0
+    },
+    {
+      "source": "colegio",
+      "target": "inglés",
+      "value": 635.0
+    },
+    {
+      "source": "colegio",
+      "target": "preescolar",
+      "value": 651.0
+    },
+    {
+      "source": "colegio",
+      "target": "centro",
+      "value": 577.0
+    },
+    {
+      "source": "colegio",
+      "target": "campus",
+      "value": 476.0
+    },
+    {
+      "source": "colegio",
+      "target": "extendido",
+      "value": 592.0
+    },
+    {
+      "source": "colegio",
+      "target": "hija",
+      "value": 429.0
+    },
+    {
+      "source": "colegio",
+      "target": "https",
+      "value": 436.0
+    },
+    {
+      "source": "colegio",
+      "target": "escolar",
+      "value": 469.0
+    },
+    {
+      "source": "colegio",
+      "target": "mejor",
+      "value": 349.0
+    },
+    {
+      "source": "colegio",
+      "target": "felices",
+      "value": 419.0
+    },
+    {
+      "source": "colegio",
+      "target": "ahí",
+      "value": 399.0
+    },
+    {
+      "source": "colegio",
+      "target": "plaza",
+      "value": 486.0
+    },
+    {
+      "source": "colegio",
+      "target": "opción",
+      "value": 435.0
+    },
+    {
+      "source": "colegio",
+      "target": "hijo",
+      "value": 369.0
+    },
+    {
+      "source": "colegio",
+      "target": "académico",
+      "value": 452.0
+    },
+    {
+      "source": "colegio",
+      "target": "años",
+      "value": 300.0
+    },
+    {
+      "source": "colegio",
+      "target": "colegios",
+      "value": 436.0
+    },
+    {
+      "source": "colegio",
+      "target": "secundaria",
+      "value": 459.0
+    },
+    {
+      "source": "colegio",
+      "target": "sur",
+      "value": 329.0
+    },
+    {
+      "source": "colegio",
+      "target": "busco",
+      "value": 452.0
+    },
+    {
+      "source": "colegio",
+      "target": "información",
+      "value": 222.0
+    },
+    {
+      "source": "colegio",
+      "target": "bien",
+      "value": 242.0
+    },
+    {
+      "source": "colegio",
+      "target": "buenas",
+      "value": 340.0
+    },
+    {
+      "source": "colegio",
+      "target": "cerca",
+      "value": 416.0
+    },
+    {
+      "source": "colegio",
+      "target": "gracias",
+      "value": 398.0
+    },
+    {
+      "source": "colegio",
+      "target": "instalaciones",
+      "value": 267.0
+    },
+    {
+      "source": "colegio",
+      "target": "sol",
+      "value": 347.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "instituto",
+      "value": 630.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "primaria",
+      "value": 406.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "educación",
+      "value": 621.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "itea",
+      "value": 700.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "nivel",
+      "value": 509.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "hola",
+      "value": 414.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "zona",
+      "value": 358.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "avanzada",
+      "value": 515.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "si",
+      "value": 181.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "niños",
+      "value": 246.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "tecnológico",
+      "value": 505.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "guadalajara",
+      "value": 296.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "school",
+      "value": 271.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "zapopan",
+      "value": 370.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "kinder",
+      "value": 283.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "hijos",
+      "value": 310.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "bilingüe",
+      "value": 279.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "escuela",
+      "value": 196.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "buen",
+      "value": 350.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "horario",
+      "value": 246.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "excelente",
+      "value": 275.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "inglés",
+      "value": 195.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "preescolar",
+      "value": 234.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "centro",
+      "value": 253.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "campus",
+      "value": 315.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "extendido",
+      "value": 227.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "hija",
+      "value": 176.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "https",
+      "value": 163.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "escolar",
+      "value": 265.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "mejor",
+      "value": 129.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "felices",
+      "value": 200.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "ahí",
+      "value": 161.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "plaza",
+      "value": 150.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "opción",
+      "value": 194.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "hijo",
+      "value": 155.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "académico",
+      "value": 239.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "años",
+      "value": 113.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "colegios",
+      "value": 136.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "secundaria",
+      "value": 122.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "sur",
+      "value": 234.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "busco",
+      "value": 132.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "información",
+      "value": 70.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "bien",
+      "value": 120.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "buenas",
+      "value": 170.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "cerca",
+      "value": 120.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "gracias",
+      "value": 109.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "instalaciones",
+      "value": 176.0
+    },
+    {
+      "source": "recomiendo",
+      "target": "sol",
+      "value": 108.0
+    },
+    {
+      "source": "instituto",
+      "target": "primaria",
+      "value": 450.0
+    },
+    {
+      "source": "instituto",
+      "target": "educación",
+      "value": 651.0
+    },
+    {
+      "source": "instituto",
+      "target": "itea",
+      "value": 731.0
+    },
+    {
+      "source": "instituto",
+      "target": "nivel",
+      "value": 485.0
+    },
+    {
+      "source": "instituto",
+      "target": "hola",
+      "value": 378.0
+    },
+    {
+      "source": "instituto",
+      "target": "zona",
+      "value": 295.0
+    },
+    {
+      "source": "instituto",
+      "target": "avanzada",
+      "value": 554.0
+    },
+    {
+      "source": "instituto",
+      "target": "si",
+      "value": 147.0
+    },
+    {
+      "source": "instituto",
+      "target": "niños",
+      "value": 203.0
+    },
+    {
+      "source": "instituto",
+      "target": "tecnológico",
+      "value": 544.0
+    },
+    {
+      "source": "instituto",
+      "target": "guadalajara",
+      "value": 299.0
+    },
+    {
+      "source": "instituto",
+      "target": "school",
+      "value": 241.0
+    },
+    {
+      "source": "instituto",
+      "target": "zapopan",
+      "value": 346.0
+    },
+    {
+      "source": "instituto",
+      "target": "kinder",
+      "value": 195.0
+    },
+    {
+      "source": "instituto",
+      "target": "hijos",
+      "value": 324.0
+    },
+    {
+      "source": "instituto",
+      "target": "bilingüe",
+      "value": 266.0
+    },
+    {
+      "source": "instituto",
+      "target": "escuela",
+      "value": 153.0
+    },
+    {
+      "source": "instituto",
+      "target": "buen",
+      "value": 320.0
+    },
+    {
+      "source": "instituto",
+      "target": "horario",
+      "value": 216.0
+    },
+    {
+      "source": "instituto",
+      "target": "excelente",
+      "value": 303.0
+    },
+    {
+      "source": "instituto",
+      "target": "inglés",
+      "value": 178.0
+    },
+    {
+      "source": "instituto",
+      "target": "preescolar",
+      "value": 190.0
+    },
+    {
+      "source": "instituto",
+      "target": "centro",
+      "value": 204.0
+    },
+    {
+      "source": "instituto",
+      "target": "campus",
+      "value": 300.0
+    },
+    {
+      "source": "instituto",
+      "target": "extendido",
+      "value": 197.0
+    },
+    {
+      "source": "instituto",
+      "target": "hija",
+      "value": 155.0
+    },
+    {
+      "source": "instituto",
+      "target": "https",
+      "value": 133.0
+    },
+    {
+      "source": "instituto",
+      "target": "escolar",
+      "value": 221.0
+    },
+    {
+      "source": "instituto",
+      "target": "mejor",
+      "value": 100.0
+    },
+    {
+      "source": "instituto",
+      "target": "felices",
+      "value": 186.0
+    },
+    {
+      "source": "instituto",
+      "target": "ahí",
+      "value": 138.0
+    },
+    {
+      "source": "instituto",
+      "target": "plaza",
+      "value": 143.0
+    },
+    {
+      "source": "instituto",
+      "target": "opción",
+      "value": 202.0
+    },
+    {
+      "source": "instituto",
+      "target": "hijo",
+      "value": 143.0
+    },
+    {
+      "source": "instituto",
+      "target": "académico",
+      "value": 232.0
+    },
+    {
+      "source": "instituto",
+      "target": "años",
+      "value": 99.0
+    },
+    {
+      "source": "instituto",
+      "target": "colegios",
+      "value": 113.0
+    },
+    {
+      "source": "instituto",
+      "target": "secundaria",
+      "value": 125.0
+    },
+    {
+      "source": "instituto",
+      "target": "sur",
+      "value": 253.0
+    },
+    {
+      "source": "instituto",
+      "target": "busco",
+      "value": 110.0
+    },
+    {
+      "source": "instituto",
+      "target": "información",
+      "value": 58.0
+    },
+    {
+      "source": "instituto",
+      "target": "bien",
+      "value": 106.0
+    },
+    {
+      "source": "instituto",
+      "target": "buenas",
+      "value": 150.0
+    },
+    {
+      "source": "instituto",
+      "target": "cerca",
+      "value": 120.0
+    },
+    {
+      "source": "instituto",
+      "target": "gracias",
+      "value": 102.0
+    },
+    {
+      "source": "instituto",
+      "target": "instalaciones",
+      "value": 180.0
+    },
+    {
+      "source": "instituto",
+      "target": "sol",
+      "value": 94.0
+    },
+    {
+      "source": "primaria",
+      "target": "educación",
+      "value": 359.0
+    },
+    {
+      "source": "primaria",
+      "target": "itea",
+      "value": 360.0
+    },
+    {
+      "source": "primaria",
+      "target": "nivel",
+      "value": 358.0
+    },
+    {
+      "source": "primaria",
+      "target": "hola",
+      "value": 298.0
+    },
+    {
+      "source": "primaria",
+      "target": "zona",
+      "value": 313.0
+    },
+    {
+      "source": "primaria",
+      "target": "avanzada",
+      "value": 269.0
+    },
+    {
+      "source": "primaria",
+      "target": "si",
+      "value": 201.0
+    },
+    {
+      "source": "primaria",
+      "target": "niños",
+      "value": 231.0
+    },
+    {
+      "source": "primaria",
+      "target": "tecnológico",
+      "value": 262.0
+    },
+    {
+      "source": "primaria",
+      "target": "guadalajara",
+      "value": 338.0
+    },
+    {
+      "source": "primaria",
+      "target": "school",
+      "value": 293.0
+    },
+    {
+      "source": "primaria",
+      "target": "zapopan",
+      "value": 238.0
+    },
+    {
+      "source": "primaria",
+      "target": "kinder",
+      "value": 210.0
+    },
+    {
+      "source": "primaria",
+      "target": "hijos",
+      "value": 266.0
+    },
+    {
+      "source": "primaria",
+      "target": "bilingüe",
+      "value": 221.0
+    },
+    {
+      "source": "primaria",
+      "target": "escuela",
+      "value": 170.0
+    },
+    {
+      "source": "primaria",
+      "target": "buen",
+      "value": 304.0
+    },
+    {
+      "source": "primaria",
+      "target": "horario",
+      "value": 194.0
+    },
+    {
+      "source": "primaria",
+      "target": "excelente",
+      "value": 211.0
+    },
+    {
+      "source": "primaria",
+      "target": "inglés",
+      "value": 189.0
+    },
+    {
+      "source": "primaria",
+      "target": "preescolar",
+      "value": 213.0
+    },
+    {
+      "source": "primaria",
+      "target": "centro",
+      "value": 159.0
+    },
+    {
+      "source": "primaria",
+      "target": "campus",
+      "value": 158.0
+    },
+    {
+      "source": "primaria",
+      "target": "extendido",
+      "value": 163.0
+    },
+    {
+      "source": "primaria",
+      "target": "hija",
+      "value": 134.0
+    },
+    {
+      "source": "primaria",
+      "target": "https",
+      "value": 122.0
+    },
+    {
+      "source": "primaria",
+      "target": "escolar",
+      "value": 159.0
+    },
+    {
+      "source": "primaria",
+      "target": "mejor",
+      "value": 104.0
+    },
+    {
+      "source": "primaria",
+      "target": "felices",
+      "value": 171.0
+    },
+    {
+      "source": "primaria",
+      "target": "ahí",
+      "value": 162.0
+    },
+    {
+      "source": "primaria",
+      "target": "plaza",
+      "value": 190.0
+    },
+    {
+      "source": "primaria",
+      "target": "opción",
+      "value": 160.0
+    },
+    {
+      "source": "primaria",
+      "target": "hijo",
+      "value": 110.0
+    },
+    {
+      "source": "primaria",
+      "target": "académico",
+      "value": 163.0
+    },
+    {
+      "source": "primaria",
+      "target": "años",
+      "value": 135.0
+    },
+    {
+      "source": "primaria",
+      "target": "colegios",
+      "value": 142.0
+    },
+    {
+      "source": "primaria",
+      "target": "secundaria",
+      "value": 163.0
+    },
+    {
+      "source": "primaria",
+      "target": "sur",
+      "value": 130.0
+    },
+    {
+      "source": "primaria",
+      "target": "busco",
+      "value": 161.0
+    },
+    {
+      "source": "primaria",
+      "target": "información",
+      "value": 55.0
+    },
+    {
+      "source": "primaria",
+      "target": "bien",
+      "value": 97.0
+    },
+    {
+      "source": "primaria",
+      "target": "buenas",
+      "value": 125.0
+    },
+    {
+      "source": "primaria",
+      "target": "cerca",
+      "value": 135.0
+    },
+    {
+      "source": "primaria",
+      "target": "gracias",
+      "value": 78.0
+    },
+    {
+      "source": "primaria",
+      "target": "instalaciones",
+      "value": 97.0
+    },
+    {
+      "source": "primaria",
+      "target": "sol",
+      "value": 150.0
+    },
+    {
+      "source": "educación",
+      "target": "itea",
+      "value": 804.0
+    },
+    {
+      "source": "educación",
+      "target": "nivel",
+      "value": 493.0
+    },
+    {
+      "source": "educación",
+      "target": "hola",
+      "value": 350.0
+    },
+    {
+      "source": "educación",
+      "target": "zona",
+      "value": 270.0
+    },
+    {
+      "source": "educación",
+      "target": "avanzada",
+      "value": 597.0
+    },
+    {
+      "source": "educación",
+      "target": "si",
+      "value": 122.0
+    },
+    {
+      "source": "educación",
+      "target": "niños",
+      "value": 179.0
+    },
+    {
+      "source": "educación",
+      "target": "tecnológico",
+      "value": 577.0
+    },
+    {
+      "source": "educación",
+      "target": "guadalajara",
+      "value": 213.0
+    },
+    {
+      "source": "educación",
+      "target": "school",
+      "value": 190.0
+    },
+    {
+      "source": "educación",
+      "target": "zapopan",
+      "value": 316.0
+    },
+    {
+      "source": "educación",
+      "target": "kinder",
+      "value": 167.0
+    },
+    {
+      "source": "educación",
+      "target": "hijos",
+      "value": 324.0
+    },
+    {
+      "source": "educación",
+      "target": "bilingüe",
+      "value": 245.0
+    },
+    {
+      "source": "educación",
+      "target": "escuela",
+      "value": 140.0
+    },
+    {
+      "source": "educación",
+      "target": "buen",
+      "value": 302.0
+    },
+    {
+      "source": "educación",
+      "target": "horario",
+      "value": 205.0
+    },
+    {
+      "source": "educación",
+      "target": "excelente",
+      "value": 332.0
+    },
+    {
+      "source": "educación",
+      "target": "inglés",
+      "value": 154.0
+    },
+    {
+      "source": "educación",
+      "target": "preescolar",
+      "value": 181.0
+    },
+    {
+      "source": "educación",
+      "target": "centro",
+      "value": 210.0
+    },
+    {
+      "source": "educación",
+      "target": "campus",
+      "value": 321.0
+    },
+    {
+      "source": "educación",
+      "target": "extendido",
+      "value": 191.0
+    },
+    {
+      "source": "educación",
+      "target": "hija",
+      "value": 164.0
+    },
+    {
+      "source": "educación",
+      "target": "https",
+      "value": 137.0
+    },
+    {
+      "source": "educación",
+      "target": "escolar",
+      "value": 231.0
+    },
+    {
+      "source": "educación",
+      "target": "mejor",
+      "value": 105.0
+    },
+    {
+      "source": "educación",
+      "target": "felices",
+      "value": 191.0
+    },
+    {
+      "source": "educación",
+      "target": "ahí",
+      "value": 137.0
+    },
+    {
+      "source": "educación",
+      "target": "plaza",
+      "value": 122.0
+    },
+    {
+      "source": "educación",
+      "target": "opción",
+      "value": 213.0
+    },
+    {
+      "source": "educación",
+      "target": "hijo",
+      "value": 155.0
+    },
+    {
+      "source": "educación",
+      "target": "académico",
+      "value": 251.0
+    },
+    {
+      "source": "educación",
+      "target": "años",
+      "value": 123.0
+    },
+    {
+      "source": "educación",
+      "target": "colegios",
+      "value": 121.0
+    },
+    {
+      "source": "educación",
+      "target": "secundaria",
+      "value": 110.0
+    },
+    {
+      "source": "educación",
+      "target": "sur",
+      "value": 285.0
+    },
+    {
+      "source": "educación",
+      "target": "busco",
+      "value": 97.0
+    },
+    {
+      "source": "educación",
+      "target": "información",
+      "value": 63.0
+    },
+    {
+      "source": "educación",
+      "target": "bien",
+      "value": 117.0
+    },
+    {
+      "source": "educación",
+      "target": "buenas",
+      "value": 157.0
+    },
+    {
+      "source": "educación",
+      "target": "cerca",
+      "value": 87.0
+    },
+    {
+      "source": "educación",
+      "target": "gracias",
+      "value": 92.0
+    },
+    {
+      "source": "educación",
+      "target": "instalaciones",
+      "value": 197.0
+    },
+    {
+      "source": "educación",
+      "target": "sol",
+      "value": 73.0
+    },
+    {
+      "source": "itea",
+      "target": "nivel",
+      "value": 552.0
+    },
+    {
+      "source": "itea",
+      "target": "hola",
+      "value": 370.0
+    },
+    {
+      "source": "itea",
+      "target": "zona",
+      "value": 275.0
+    },
+    {
+      "source": "itea",
+      "target": "avanzada",
+      "value": 709.0
+    },
+    {
+      "source": "itea",
+      "target": "si",
+      "value": 94.0
+    },
+    {
+      "source": "itea",
+      "target": "niños",
+      "value": 146.0
+    },
+    {
+      "source": "itea",
+      "target": "tecnológico",
+      "value": 686.0
+    },
+    {
+      "source": "itea",
+      "target": "guadalajara",
+      "value": 191.0
+    },
+    {
+      "source": "itea",
+      "target": "school",
+      "value": 165.0
+    },
+    {
+      "source": "itea",
+      "target": "zapopan",
+      "value": 346.0
+    },
+    {
+      "source": "itea",
+      "target": "kinder",
+      "value": 153.0
+    },
+    {
+      "source": "itea",
+      "target": "hijos",
+      "value": 355.0
+    },
+    {
+      "source": "itea",
+      "target": "bilingüe",
+      "value": 213.0
+    },
+    {
+      "source": "itea",
+      "target": "escuela",
+      "value": 115.0
+    },
+    {
+      "source": "itea",
+      "target": "buen",
+      "value": 347.0
+    },
+    {
+      "source": "itea",
+      "target": "horario",
+      "value": 201.0
+    },
+    {
+      "source": "itea",
+      "target": "excelente",
+      "value": 391.0
+    },
+    {
+      "source": "itea",
+      "target": "inglés",
+      "value": 118.0
+    },
+    {
+      "source": "itea",
+      "target": "preescolar",
+      "value": 190.0
+    },
+    {
+      "source": "itea",
+      "target": "centro",
+      "value": 219.0
+    },
+    {
+      "source": "itea",
+      "target": "campus",
+      "value": 390.0
+    },
+    {
+      "source": "itea",
+      "target": "extendido",
+      "value": 187.0
+    },
+    {
+      "source": "itea",
+      "target": "hija",
+      "value": 161.0
+    },
+    {
+      "source": "itea",
+      "target": "https",
+      "value": 113.0
+    },
+    {
+      "source": "itea",
+      "target": "escolar",
+      "value": 233.0
+    },
+    {
+      "source": "itea",
+      "target": "mejor",
+      "value": 93.0
+    },
+    {
+      "source": "itea",
+      "target": "felices",
+      "value": 185.0
+    },
+    {
+      "source": "itea",
+      "target": "ahí",
+      "value": 138.0
+    },
+    {
+      "source": "itea",
+      "target": "plaza",
+      "value": 107.0
+    },
+    {
+      "source": "itea",
+      "target": "opción",
+      "value": 246.0
+    },
+    {
+      "source": "itea",
+      "target": "hijo",
+      "value": 166.0
+    },
+    {
+      "source": "itea",
+      "target": "académico",
+      "value": 285.0
+    },
+    {
+      "source": "itea",
+      "target": "años",
+      "value": 115.0
+    },
+    {
+      "source": "itea",
+      "target": "colegios",
+      "value": 124.0
+    },
+    {
+      "source": "itea",
+      "target": "secundaria",
+      "value": 109.0
+    },
+    {
+      "source": "itea",
+      "target": "sur",
+      "value": 367.0
+    },
+    {
+      "source": "itea",
+      "target": "busco",
+      "value": 81.0
+    },
+    {
+      "source": "itea",
+      "target": "información",
+      "value": 54.0
+    },
+    {
+      "source": "itea",
+      "target": "bien",
+      "value": 133.0
+    },
+    {
+      "source": "itea",
+      "target": "buenas",
+      "value": 188.0
+    },
+    {
+      "source": "itea",
+      "target": "cerca",
+      "value": 70.0
+    },
+    {
+      "source": "itea",
+      "target": "gracias",
+      "value": 86.0
+    },
+    {
+      "source": "itea",
+      "target": "instalaciones",
+      "value": 238.0
+    },
+    {
+      "source": "itea",
+      "target": "sol",
+      "value": 50.0
+    },
+    {
+      "source": "nivel",
+      "target": "hola",
+      "value": 317.0
+    },
+    {
+      "source": "nivel",
+      "target": "zona",
+      "value": 268.0
+    },
+    {
+      "source": "nivel",
+      "target": "avanzada",
+      "value": 425.0
+    },
+    {
+      "source": "nivel",
+      "target": "si",
+      "value": 153.0
+    },
+    {
+      "source": "nivel",
+      "target": "niños",
+      "value": 166.0
+    },
+    {
+      "source": "nivel",
+      "target": "tecnológico",
+      "value": 411.0
+    },
+    {
+      "source": "nivel",
+      "target": "guadalajara",
+      "value": 238.0
+    },
+    {
+      "source": "nivel",
+      "target": "school",
+      "value": 197.0
+    },
+    {
+      "source": "nivel",
+      "target": "zapopan",
+      "value": 260.0
+    },
+    {
+      "source": "nivel",
+      "target": "kinder",
+      "value": 143.0
+    },
+    {
+      "source": "nivel",
+      "target": "hijos",
+      "value": 273.0
+    },
+    {
+      "source": "nivel",
+      "target": "bilingüe",
+      "value": 215.0
+    },
+    {
+      "source": "nivel",
+      "target": "escuela",
+      "value": 124.0
+    },
+    {
+      "source": "nivel",
+      "target": "buen",
+      "value": 305.0
+    },
+    {
+      "source": "nivel",
+      "target": "horario",
+      "value": 144.0
+    },
+    {
+      "source": "nivel",
+      "target": "excelente",
+      "value": 282.0
+    },
+    {
+      "source": "nivel",
+      "target": "inglés",
+      "value": 238.0
+    },
+    {
+      "source": "nivel",
+      "target": "preescolar",
+      "value": 180.0
+    },
+    {
+      "source": "nivel",
+      "target": "centro",
+      "value": 171.0
+    },
+    {
+      "source": "nivel",
+      "target": "campus",
+      "value": 224.0
+    },
+    {
+      "source": "nivel",
+      "target": "extendido",
+      "value": 119.0
+    },
+    {
+      "source": "nivel",
+      "target": "hija",
+      "value": 145.0
+    },
+    {
+      "source": "nivel",
+      "target": "https",
+      "value": 139.0
+    },
+    {
+      "source": "nivel",
+      "target": "escolar",
+      "value": 179.0
+    },
+    {
+      "source": "nivel",
+      "target": "mejor",
+      "value": 102.0
+    },
+    {
+      "source": "nivel",
+      "target": "felices",
+      "value": 202.0
+    },
+    {
+      "source": "nivel",
+      "target": "ahí",
+      "value": 131.0
+    },
+    {
+      "source": "nivel",
+      "target": "plaza",
+      "value": 119.0
+    },
+    {
+      "source": "nivel",
+      "target": "opción",
+      "value": 148.0
+    },
+    {
+      "source": "nivel",
+      "target": "hijo",
+      "value": 125.0
+    },
+    {
+      "source": "nivel",
+      "target": "académico",
+      "value": 254.0
+    },
+    {
+      "source": "nivel",
+      "target": "años",
+      "value": 87.0
+    },
+    {
+      "source": "nivel",
+      "target": "colegios",
+      "value": 131.0
+    },
+    {
+      "source": "nivel",
+      "target": "secundaria",
+      "value": 121.0
+    },
+    {
+      "source": "nivel",
+      "target": "sur",
+      "value": 205.0
+    },
+    {
+      "source": "nivel",
+      "target": "busco",
+      "value": 96.0
+    },
+    {
+      "source": "nivel",
+      "target": "información",
+      "value": 59.0
+    },
+    {
+      "source": "nivel",
+      "target": "bien",
+      "value": 102.0
+    },
+    {
+      "source": "nivel",
+      "target": "buenas",
+      "value": 139.0
+    },
+    {
+      "source": "nivel",
+      "target": "cerca",
+      "value": 93.0
+    },
+    {
+      "source": "nivel",
+      "target": "gracias",
+      "value": 79.0
+    },
+    {
+      "source": "nivel",
+      "target": "instalaciones",
+      "value": 148.0
+    },
+    {
+      "source": "nivel",
+      "target": "sol",
+      "value": 76.0
+    },
+    {
+      "source": "hola",
+      "target": "zona",
+      "value": 242.0
+    },
+    {
+      "source": "hola",
+      "target": "avanzada",
+      "value": 283.0
+    },
+    {
+      "source": "hola",
+      "target": "si",
+      "value": 157.0
+    },
+    {
+      "source": "hola",
+      "target": "niños",
+      "value": 170.0
+    },
+    {
+      "source": "hola",
+      "target": "tecnológico",
+      "value": 278.0
+    },
+    {
+      "source": "hola",
+      "target": "guadalajara",
+      "value": 242.0
+    },
+    {
+      "source": "hola",
+      "target": "school",
+      "value": 233.0
+    },
+    {
+      "source": "hola",
+      "target": "zapopan",
+      "value": 253.0
+    },
+    {
+      "source": "hola",
+      "target": "kinder",
+      "value": 221.0
+    },
+    {
+      "source": "hola",
+      "target": "hijos",
+      "value": 208.0
+    },
+    {
+      "source": "hola",
+      "target": "bilingüe",
+      "value": 229.0
+    },
+    {
+      "source": "hola",
+      "target": "escuela",
+      "value": 173.0
+    },
+    {
+      "source": "hola",
+      "target": "buen",
+      "value": 210.0
+    },
+    {
+      "source": "hola",
+      "target": "horario",
+      "value": 154.0
+    },
+    {
+      "source": "hola",
+      "target": "excelente",
+      "value": 199.0
+    },
+    {
+      "source": "hola",
+      "target": "inglés",
+      "value": 158.0
+    },
+    {
+      "source": "hola",
+      "target": "preescolar",
+      "value": 192.0
+    },
+    {
+      "source": "hola",
+      "target": "centro",
+      "value": 166.0
+    },
+    {
+      "source": "hola",
+      "target": "campus",
+      "value": 160.0
+    },
+    {
+      "source": "hola",
+      "target": "extendido",
+      "value": 131.0
+    },
+    {
+      "source": "hola",
+      "target": "hija",
+      "value": 137.0
+    },
+    {
+      "source": "hola",
+      "target": "https",
+      "value": 145.0
+    },
+    {
+      "source": "hola",
+      "target": "escolar",
+      "value": 153.0
+    },
+    {
+      "source": "hola",
+      "target": "mejor",
+      "value": 114.0
+    },
+    {
+      "source": "hola",
+      "target": "felices",
+      "value": 145.0
+    },
+    {
+      "source": "hola",
+      "target": "ahí",
+      "value": 125.0
+    },
+    {
+      "source": "hola",
+      "target": "plaza",
+      "value": 113.0
+    },
+    {
+      "source": "hola",
+      "target": "opción",
+      "value": 137.0
+    },
+    {
+      "source": "hola",
+      "target": "hijo",
+      "value": 130.0
+    },
+    {
+      "source": "hola",
+      "target": "académico",
+      "value": 145.0
+    },
+    {
+      "source": "hola",
+      "target": "años",
+      "value": 122.0
+    },
+    {
+      "source": "hola",
+      "target": "colegios",
+      "value": 126.0
+    },
+    {
+      "source": "hola",
+      "target": "secundaria",
+      "value": 118.0
+    },
+    {
+      "source": "hola",
+      "target": "sur",
+      "value": 112.0
+    },
+    {
+      "source": "hola",
+      "target": "busco",
+      "value": 109.0
+    },
+    {
+      "source": "hola",
+      "target": "información",
+      "value": 235.0
+    },
+    {
+      "source": "hola",
+      "target": "bien",
+      "value": 91.0
+    },
+    {
+      "source": "hola",
+      "target": "buenas",
+      "value": 112.0
+    },
+    {
+      "source": "hola",
+      "target": "cerca",
+      "value": 114.0
+    },
+    {
+      "source": "hola",
+      "target": "gracias",
+      "value": 120.0
+    },
+    {
+      "source": "hola",
+      "target": "instalaciones",
+      "value": 100.0
+    },
+    {
+      "source": "hola",
+      "target": "sol",
+      "value": 66.0
+    },
+    {
+      "source": "zona",
+      "target": "avanzada",
+      "value": 218.0
+    },
+    {
+      "source": "zona",
+      "target": "si",
+      "value": 154.0
+    },
+    {
+      "source": "zona",
+      "target": "niños",
+      "value": 141.0
+    },
+    {
+      "source": "zona",
+      "target": "tecnológico",
+      "value": 211.0
+    },
+    {
+      "source": "zona",
+      "target": "guadalajara",
+      "value": 231.0
+    },
+    {
+      "source": "zona",
+      "target": "school",
+      "value": 255.0
+    },
+    {
+      "source": "zona",
+      "target": "zapopan",
+      "value": 260.0
+    },
+    {
+      "source": "zona",
+      "target": "kinder",
+      "value": 195.0
+    },
+    {
+      "source": "zona",
+      "target": "hijos",
+      "value": 169.0
+    },
+    {
+      "source": "zona",
+      "target": "bilingüe",
+      "value": 198.0
+    },
+    {
+      "source": "zona",
+      "target": "escuela",
+      "value": 107.0
+    },
+    {
+      "source": "zona",
+      "target": "buen",
+      "value": 188.0
+    },
+    {
+      "source": "zona",
+      "target": "horario",
+      "value": 159.0
+    },
+    {
+      "source": "zona",
+      "target": "excelente",
+      "value": 163.0
+    },
+    {
+      "source": "zona",
+      "target": "inglés",
+      "value": 135.0
+    },
+    {
+      "source": "zona",
+      "target": "preescolar",
+      "value": 182.0
+    },
+    {
+      "source": "zona",
+      "target": "centro",
+      "value": 145.0
+    },
+    {
+      "source": "zona",
+      "target": "campus",
+      "value": 129.0
+    },
+    {
+      "source": "zona",
+      "target": "extendido",
+      "value": 149.0
+    },
+    {
+      "source": "zona",
+      "target": "hija",
+      "value": 93.0
+    },
+    {
+      "source": "zona",
+      "target": "https",
+      "value": 108.0
+    },
+    {
+      "source": "zona",
+      "target": "escolar",
+      "value": 126.0
+    },
+    {
+      "source": "zona",
+      "target": "mejor",
+      "value": 84.0
+    },
+    {
+      "source": "zona",
+      "target": "felices",
+      "value": 114.0
+    },
+    {
+      "source": "zona",
+      "target": "ahí",
+      "value": 100.0
+    },
+    {
+      "source": "zona",
+      "target": "plaza",
+      "value": 121.0
+    },
+    {
+      "source": "zona",
+      "target": "opción",
+      "value": 119.0
+    },
+    {
+      "source": "zona",
+      "target": "hijo",
+      "value": 96.0
+    },
+    {
+      "source": "zona",
+      "target": "académico",
+      "value": 117.0
+    },
+    {
+      "source": "zona",
+      "target": "años",
+      "value": 87.0
+    },
+    {
+      "source": "zona",
+      "target": "colegios",
+      "value": 82.0
+    },
+    {
+      "source": "zona",
+      "target": "secundaria",
+      "value": 101.0
+    },
+    {
+      "source": "zona",
+      "target": "sur",
+      "value": 102.0
+    },
+    {
+      "source": "zona",
+      "target": "busco",
+      "value": 114.0
+    },
+    {
+      "source": "zona",
+      "target": "información",
+      "value": 49.0
+    },
+    {
+      "source": "zona",
+      "target": "bien",
+      "value": 53.0
+    },
+    {
+      "source": "zona",
+      "target": "buenas",
+      "value": 102.0
+    },
+    {
+      "source": "zona",
+      "target": "cerca",
+      "value": 83.0
+    },
+    {
+      "source": "zona",
+      "target": "gracias",
+      "value": 68.0
+    },
+    {
+      "source": "zona",
+      "target": "instalaciones",
+      "value": 77.0
+    },
+    {
+      "source": "zona",
+      "target": "sol",
+      "value": 106.0
+    },
+    {
+      "source": "avanzada",
+      "target": "si",
+      "value": 71.0
+    },
+    {
+      "source": "avanzada",
+      "target": "niños",
+      "value": 100.0
+    },
+    {
+      "source": "avanzada",
+      "target": "tecnológico",
+      "value": 517.0
+    },
+    {
+      "source": "avanzada",
+      "target": "guadalajara",
+      "value": 156.0
+    },
+    {
+      "source": "avanzada",
+      "target": "school",
+      "value": 134.0
+    },
+    {
+      "source": "avanzada",
+      "target": "zapopan",
+      "value": 273.0
+    },
+    {
+      "source": "avanzada",
+      "target": "kinder",
+      "value": 107.0
+    },
+    {
+      "source": "avanzada",
+      "target": "hijos",
+      "value": 266.0
+    },
+    {
+      "source": "avanzada",
+      "target": "bilingüe",
+      "value": 180.0
+    },
+    {
+      "source": "avanzada",
+      "target": "escuela",
+      "value": 91.0
+    },
+    {
+      "source": "avanzada",
+      "target": "buen",
+      "value": 257.0
+    },
+    {
+      "source": "avanzada",
+      "target": "horario",
+      "value": 171.0
+    },
+    {
+      "source": "avanzada",
+      "target": "excelente",
+      "value": 278.0
+    },
+    {
+      "source": "avanzada",
+      "target": "inglés",
+      "value": 105.0
+    },
+    {
+      "source": "avanzada",
+      "target": "preescolar",
+      "value": 141.0
+    },
+    {
+      "source": "avanzada",
+      "target": "centro",
+      "value": 164.0
+    },
+    {
+      "source": "avanzada",
+      "target": "campus",
+      "value": 260.0
+    },
+    {
+      "source": "avanzada",
+      "target": "extendido",
+      "value": 159.0
+    },
+    {
+      "source": "avanzada",
+      "target": "hija",
+      "value": 116.0
+    },
+    {
+      "source": "avanzada",
+      "target": "https",
+      "value": 99.0
+    },
+    {
+      "source": "avanzada",
+      "target": "escolar",
+      "value": 187.0
+    },
+    {
+      "source": "avanzada",
+      "target": "mejor",
+      "value": 60.0
+    },
+    {
+      "source": "avanzada",
+      "target": "felices",
+      "value": 152.0
+    },
+    {
+      "source": "avanzada",
+      "target": "ahí",
+      "value": 107.0
+    },
+    {
+      "source": "avanzada",
+      "target": "plaza",
+      "value": 86.0
+    },
+    {
+      "source": "avanzada",
+      "target": "opción",
+      "value": 168.0
+    },
+    {
+      "source": "avanzada",
+      "target": "hijo",
+      "value": 120.0
+    },
+    {
+      "source": "avanzada",
+      "target": "académico",
+      "value": 217.0
+    },
+    {
+      "source": "avanzada",
+      "target": "años",
+      "value": 83.0
+    },
+    {
+      "source": "avanzada",
+      "target": "colegios",
+      "value": 86.0
+    },
+    {
+      "source": "avanzada",
+      "target": "secundaria",
+      "value": 88.0
+    },
+    {
+      "source": "avanzada",
+      "target": "sur",
+      "value": 240.0
+    },
+    {
+      "source": "avanzada",
+      "target": "busco",
+      "value": 67.0
+    },
+    {
+      "source": "avanzada",
+      "target": "información",
+      "value": 44.0
+    },
+    {
+      "source": "avanzada",
+      "target": "bien",
+      "value": 88.0
+    },
+    {
+      "source": "avanzada",
+      "target": "buenas",
+      "value": 123.0
+    },
+    {
+      "source": "avanzada",
+      "target": "cerca",
+      "value": 64.0
+    },
+    {
+      "source": "avanzada",
+      "target": "gracias",
+      "value": 60.0
+    },
+    {
+      "source": "avanzada",
+      "target": "instalaciones",
+      "value": 169.0
+    },
+    {
+      "source": "avanzada",
+      "target": "sol",
+      "value": 42.0
+    },
+    {
+      "source": "si",
+      "target": "niños",
+      "value": 218.0
+    },
+    {
+      "source": "si",
+      "target": "tecnológico",
+      "value": 65.0
+    },
+    {
+      "source": "si",
+      "target": "guadalajara",
+      "value": 113.0
+    },
+    {
+      "source": "si",
+      "target": "school",
+      "value": 87.0
+    },
+    {
+      "source": "si",
+      "target": "zapopan",
+      "value": 89.0
+    },
+    {
+      "source": "si",
+      "target": "kinder",
+      "value": 219.0
+    },
+    {
+      "source": "si",
+      "target": "hijos",
+      "value": 133.0
+    },
+    {
+      "source": "si",
+      "target": "bilingüe",
+      "value": 107.0
+    },
+    {
+      "source": "si",
+      "target": "escuela",
+      "value": 200.0
+    },
+    {
+      "source": "si",
+      "target": "buen",
+      "value": 85.0
+    },
+    {
+      "source": "si",
+      "target": "horario",
+      "value": 96.0
+    },
+    {
+      "source": "si",
+      "target": "excelente",
+      "value": 62.0
+    },
+    {
+      "source": "si",
+      "target": "inglés",
+      "value": 103.0
+    },
+    {
+      "source": "si",
+      "target": "preescolar",
+      "value": 61.0
+    },
+    {
+      "source": "si",
+      "target": "centro",
+      "value": 86.0
+    },
+    {
+      "source": "si",
+      "target": "campus",
+      "value": 93.0
+    },
+    {
+      "source": "si",
+      "target": "extendido",
+      "value": 65.0
+    },
+    {
+      "source": "si",
+      "target": "hija",
+      "value": 153.0
+    },
+    {
+      "source": "si",
+      "target": "https",
+      "value": 68.0
+    },
+    {
+      "source": "si",
+      "target": "escolar",
+      "value": 71.0
+    },
+    {
+      "source": "si",
+      "target": "mejor",
+      "value": 197.0
+    },
+    {
+      "source": "si",
+      "target": "felices",
+      "value": 73.0
+    },
+    {
+      "source": "si",
+      "target": "ahí",
+      "value": 112.0
+    },
+    {
+      "source": "si",
+      "target": "plaza",
+      "value": 69.0
+    },
+    {
+      "source": "si",
+      "target": "opción",
+      "value": 91.0
+    },
+    {
+      "source": "si",
+      "target": "hijo",
+      "value": 115.0
+    },
+    {
+      "source": "si",
+      "target": "académico",
+      "value": 48.0
+    },
+    {
+      "source": "si",
+      "target": "años",
+      "value": 108.0
+    },
+    {
+      "source": "si",
+      "target": "colegios",
+      "value": 102.0
+    },
+    {
+      "source": "si",
+      "target": "secundaria",
+      "value": 40.0
+    },
+    {
+      "source": "si",
+      "target": "sur",
+      "value": 32.0
+    },
+    {
+      "source": "si",
+      "target": "busco",
+      "value": 48.0
+    },
+    {
+      "source": "si",
+      "target": "información",
+      "value": 31.0
+    },
+    {
+      "source": "si",
+      "target": "bien",
+      "value": 157.0
+    },
+    {
+      "source": "si",
+      "target": "buenas",
+      "value": 62.0
+    },
+    {
+      "source": "si",
+      "target": "cerca",
+      "value": 63.0
+    },
+    {
+      "source": "si",
+      "target": "gracias",
+      "value": 38.0
+    },
+    {
+      "source": "si",
+      "target": "instalaciones",
+      "value": 48.0
+    },
+    {
+      "source": "si",
+      "target": "sol",
+      "value": 68.0
+    },
+    {
+      "source": "niños",
+      "target": "tecnológico",
+      "value": 100.0
+    },
+    {
+      "source": "niños",
+      "target": "guadalajara",
+      "value": 156.0
+    },
+    {
+      "source": "niños",
+      "target": "school",
+      "value": 130.0
+    },
+    {
+      "source": "niños",
+      "target": "zapopan",
+      "value": 116.0
+    },
+    {
+      "source": "niños",
+      "target": "kinder",
+      "value": 207.0
+    },
+    {
+      "source": "niños",
+      "target": "hijos",
+      "value": 147.0
+    },
+    {
+      "source": "niños",
+      "target": "bilingüe",
+      "value": 122.0
+    },
+    {
+      "source": "niños",
+      "target": "escuela",
+      "value": 185.0
+    },
+    {
+      "source": "niños",
+      "target": "buen",
+      "value": 93.0
+    },
+    {
+      "source": "niños",
+      "target": "horario",
+      "value": 152.0
+    },
+    {
+      "source": "niños",
+      "target": "excelente",
+      "value": 96.0
+    },
+    {
+      "source": "niños",
+      "target": "inglés",
+      "value": 140.0
+    },
+    {
+      "source": "niños",
+      "target": "preescolar",
+      "value": 111.0
+    },
+    {
+      "source": "niños",
+      "target": "centro",
+      "value": 123.0
+    },
+    {
+      "source": "niños",
+      "target": "campus",
+      "value": 101.0
+    },
+    {
+      "source": "niños",
+      "target": "extendido",
+      "value": 124.0
+    },
+    {
+      "source": "niños",
+      "target": "hija",
+      "value": 138.0
+    },
+    {
+      "source": "niños",
+      "target": "https",
+      "value": 100.0
+    },
+    {
+      "source": "niños",
+      "target": "escolar",
+      "value": 83.0
+    },
+    {
+      "source": "niños",
+      "target": "mejor",
+      "value": 151.0
+    },
+    {
+      "source": "niños",
+      "target": "felices",
+      "value": 114.0
+    },
+    {
+      "source": "niños",
+      "target": "ahí",
+      "value": 126.0
+    },
+    {
+      "source": "niños",
+      "target": "plaza",
+      "value": 100.0
+    },
+    {
+      "source": "niños",
+      "target": "opción",
+      "value": 101.0
+    },
+    {
+      "source": "niños",
+      "target": "hijo",
+      "value": 110.0
+    },
+    {
+      "source": "niños",
+      "target": "académico",
+      "value": 60.0
+    },
+    {
+      "source": "niños",
+      "target": "años",
+      "value": 91.0
+    },
+    {
+      "source": "niños",
+      "target": "colegios",
+      "value": 89.0
+    },
+    {
+      "source": "niños",
+      "target": "secundaria",
+      "value": 81.0
+    },
+    {
+      "source": "niños",
+      "target": "sur",
+      "value": 66.0
+    },
+    {
+      "source": "niños",
+      "target": "busco",
+      "value": 75.0
+    },
+    {
+      "source": "niños",
+      "target": "información",
+      "value": 53.0
+    },
+    {
+      "source": "niños",
+      "target": "bien",
+      "value": 97.0
+    },
+    {
+      "source": "niños",
+      "target": "buenas",
+      "value": 52.0
+    },
+    {
+      "source": "niños",
+      "target": "cerca",
+      "value": 51.0
+    },
+    {
+      "source": "niños",
+      "target": "gracias",
+      "value": 65.0
+    },
+    {
+      "source": "niños",
+      "target": "instalaciones",
+      "value": 60.0
+    },
+    {
+      "source": "niños",
+      "target": "sol",
+      "value": 74.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "guadalajara",
+      "value": 151.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "school",
+      "value": 127.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "zapopan",
+      "value": 264.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "kinder",
+      "value": 106.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "hijos",
+      "value": 261.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "bilingüe",
+      "value": 173.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "escuela",
+      "value": 86.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "buen",
+      "value": 247.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "horario",
+      "value": 170.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "excelente",
+      "value": 264.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "inglés",
+      "value": 105.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "preescolar",
+      "value": 138.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "centro",
+      "value": 157.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "campus",
+      "value": 244.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "extendido",
+      "value": 158.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "hija",
+      "value": 111.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "https",
+      "value": 91.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "escolar",
+      "value": 181.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "mejor",
+      "value": 60.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "felices",
+      "value": 150.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "ahí",
+      "value": 108.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "plaza",
+      "value": 84.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "opción",
+      "value": 158.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "hijo",
+      "value": 115.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "académico",
+      "value": 210.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "años",
+      "value": 81.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "colegios",
+      "value": 81.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "secundaria",
+      "value": 87.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "sur",
+      "value": 228.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "busco",
+      "value": 63.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "información",
+      "value": 41.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "bien",
+      "value": 87.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "buenas",
+      "value": 116.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "cerca",
+      "value": 63.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "gracias",
+      "value": 58.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "instalaciones",
+      "value": 163.0
+    },
+    {
+      "source": "tecnológico",
+      "target": "sol",
+      "value": 40.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "school",
+      "value": 239.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "zapopan",
+      "value": 212.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "kinder",
+      "value": 170.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "hijos",
+      "value": 104.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "bilingüe",
+      "value": 211.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "escuela",
+      "value": 128.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "buen",
+      "value": 162.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "horario",
+      "value": 196.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "excelente",
+      "value": 126.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "inglés",
+      "value": 127.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "preescolar",
+      "value": 179.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "centro",
+      "value": 140.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "campus",
+      "value": 102.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "extendido",
+      "value": 174.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "hija",
+      "value": 110.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "https",
+      "value": 141.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "escolar",
+      "value": 108.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "mejor",
+      "value": 57.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "felices",
+      "value": 71.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "ahí",
+      "value": 86.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "plaza",
+      "value": 171.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "opción",
+      "value": 79.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "hijo",
+      "value": 68.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "académico",
+      "value": 94.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "años",
+      "value": 46.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "colegios",
+      "value": 102.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "secundaria",
+      "value": 104.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "sur",
+      "value": 79.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "busco",
+      "value": 112.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "información",
+      "value": 62.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "bien",
+      "value": 31.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "buenas",
+      "value": 88.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "cerca",
+      "value": 107.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "gracias",
+      "value": 87.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "instalaciones",
+      "value": 44.0
+    },
+    {
+      "source": "guadalajara",
+      "target": "sol",
+      "value": 156.0
+    },
+    {
+      "source": "school",
+      "target": "zapopan",
+      "value": 281.0
+    },
+    {
+      "source": "school",
+      "target": "kinder",
+      "value": 133.0
+    },
+    {
+      "source": "school",
+      "target": "hijos",
+      "value": 142.0
+    },
+    {
+      "source": "school",
+      "target": "bilingüe",
+      "value": 189.0
+    },
+    {
+      "source": "school",
+      "target": "escuela",
+      "value": 159.0
+    },
+    {
+      "source": "school",
+      "target": "buen",
+      "value": 160.0
+    },
+    {
+      "source": "school",
+      "target": "horario",
+      "value": 172.0
+    },
+    {
+      "source": "school",
+      "target": "excelente",
+      "value": 147.0
+    },
+    {
+      "source": "school",
+      "target": "inglés",
+      "value": 143.0
+    },
+    {
+      "source": "school",
+      "target": "preescolar",
+      "value": 152.0
+    },
+    {
+      "source": "school",
+      "target": "centro",
+      "value": 141.0
+    },
+    {
+      "source": "school",
+      "target": "campus",
+      "value": 111.0
+    },
+    {
+      "source": "school",
+      "target": "extendido",
+      "value": 142.0
+    },
+    {
+      "source": "school",
+      "target": "hija",
+      "value": 73.0
+    },
+    {
+      "source": "school",
+      "target": "https",
+      "value": 122.0
+    },
+    {
+      "source": "school",
+      "target": "escolar",
+      "value": 115.0
+    },
+    {
+      "source": "school",
+      "target": "mejor",
+      "value": 67.0
+    },
+    {
+      "source": "school",
+      "target": "felices",
+      "value": 70.0
+    },
+    {
+      "source": "school",
+      "target": "ahí",
+      "value": 88.0
+    },
+    {
+      "source": "school",
+      "target": "plaza",
+      "value": 104.0
+    },
+    {
+      "source": "school",
+      "target": "opción",
+      "value": 101.0
+    },
+    {
+      "source": "school",
+      "target": "hijo",
+      "value": 72.0
+    },
+    {
+      "source": "school",
+      "target": "académico",
+      "value": 87.0
+    },
+    {
+      "source": "school",
+      "target": "años",
+      "value": 63.0
+    },
+    {
+      "source": "school",
+      "target": "colegios",
+      "value": 110.0
+    },
+    {
+      "source": "school",
+      "target": "secundaria",
+      "value": 99.0
+    },
+    {
+      "source": "school",
+      "target": "sur",
+      "value": 32.0
+    },
+    {
+      "source": "school",
+      "target": "busco",
+      "value": 157.0
+    },
+    {
+      "source": "school",
+      "target": "información",
+      "value": 70.0
+    },
+    {
+      "source": "school",
+      "target": "bien",
+      "value": 41.0
+    },
+    {
+      "source": "school",
+      "target": "buenas",
+      "value": 84.0
+    },
+    {
+      "source": "school",
+      "target": "cerca",
+      "value": 102.0
+    },
+    {
+      "source": "school",
+      "target": "gracias",
+      "value": 106.0
+    },
+    {
+      "source": "school",
+      "target": "instalaciones",
+      "value": 43.0
+    },
+    {
+      "source": "school",
+      "target": "sol",
+      "value": 75.0
+    },
+    {
+      "source": "zapopan",
+      "target": "kinder",
+      "value": 130.0
+    },
+    {
+      "source": "zapopan",
+      "target": "hijos",
+      "value": 163.0
+    },
+    {
+      "source": "zapopan",
+      "target": "bilingüe",
+      "value": 188.0
+    },
+    {
+      "source": "zapopan",
+      "target": "escuela",
+      "value": 100.0
+    },
+    {
+      "source": "zapopan",
+      "target": "buen",
+      "value": 162.0
+    },
+    {
+      "source": "zapopan",
+      "target": "horario",
+      "value": 207.0
+    },
+    {
+      "source": "zapopan",
+      "target": "excelente",
+      "value": 204.0
+    },
+    {
+      "source": "zapopan",
+      "target": "inglés",
+      "value": 72.0
+    },
+    {
+      "source": "zapopan",
+      "target": "preescolar",
+      "value": 120.0
+    },
+    {
+      "source": "zapopan",
+      "target": "centro",
+      "value": 155.0
+    },
+    {
+      "source": "zapopan",
+      "target": "campus",
+      "value": 167.0
+    },
+    {
+      "source": "zapopan",
+      "target": "extendido",
+      "value": 192.0
+    },
+    {
+      "source": "zapopan",
+      "target": "hija",
+      "value": 78.0
+    },
+    {
+      "source": "zapopan",
+      "target": "https",
+      "value": 128.0
+    },
+    {
+      "source": "zapopan",
+      "target": "escolar",
+      "value": 139.0
+    },
+    {
+      "source": "zapopan",
+      "target": "mejor",
+      "value": 74.0
+    },
+    {
+      "source": "zapopan",
+      "target": "felices",
+      "value": 100.0
+    },
+    {
+      "source": "zapopan",
+      "target": "ahí",
+      "value": 86.0
+    },
+    {
+      "source": "zapopan",
+      "target": "plaza",
+      "value": 88.0
+    },
+    {
+      "source": "zapopan",
+      "target": "opción",
+      "value": 122.0
+    },
+    {
+      "source": "zapopan",
+      "target": "hijo",
+      "value": 91.0
+    },
+    {
+      "source": "zapopan",
+      "target": "académico",
+      "value": 129.0
+    },
+    {
+      "source": "zapopan",
+      "target": "años",
+      "value": 48.0
+    },
+    {
+      "source": "zapopan",
+      "target": "colegios",
+      "value": 50.0
+    },
+    {
+      "source": "zapopan",
+      "target": "secundaria",
+      "value": 80.0
+    },
+    {
+      "source": "zapopan",
+      "target": "sur",
+      "value": 70.0
+    },
+    {
+      "source": "zapopan",
+      "target": "busco",
+      "value": 109.0
+    },
+    {
+      "source": "zapopan",
+      "target": "información",
+      "value": 45.0
+    },
+    {
+      "source": "zapopan",
+      "target": "bien",
+      "value": 54.0
+    },
+    {
+      "source": "zapopan",
+      "target": "buenas",
+      "value": 89.0
+    },
+    {
+      "source": "zapopan",
+      "target": "cerca",
+      "value": 107.0
+    },
+    {
+      "source": "zapopan",
+      "target": "gracias",
+      "value": 83.0
+    },
+    {
+      "source": "zapopan",
+      "target": "instalaciones",
+      "value": 87.0
+    },
+    {
+      "source": "zapopan",
+      "target": "sol",
+      "value": 40.0
+    },
+    {
+      "source": "kinder",
+      "target": "hijos",
+      "value": 135.0
+    },
+    {
+      "source": "kinder",
+      "target": "bilingüe",
+      "value": 157.0
+    },
+    {
+      "source": "kinder",
+      "target": "escuela",
+      "value": 144.0
+    },
+    {
+      "source": "kinder",
+      "target": "buen",
+      "value": 104.0
+    },
+    {
+      "source": "kinder",
+      "target": "horario",
+      "value": 146.0
+    },
+    {
+      "source": "kinder",
+      "target": "excelente",
+      "value": 91.0
+    },
+    {
+      "source": "kinder",
+      "target": "inglés",
+      "value": 99.0
+    },
+    {
+      "source": "kinder",
+      "target": "preescolar",
+      "value": 142.0
+    },
+    {
+      "source": "kinder",
+      "target": "centro",
+      "value": 129.0
+    },
+    {
+      "source": "kinder",
+      "target": "campus",
+      "value": 114.0
+    },
+    {
+      "source": "kinder",
+      "target": "extendido",
+      "value": 125.0
+    },
+    {
+      "source": "kinder",
+      "target": "hija",
+      "value": 117.0
+    },
+    {
+      "source": "kinder",
+      "target": "https",
+      "value": 93.0
+    },
+    {
+      "source": "kinder",
+      "target": "escolar",
+      "value": 91.0
+    },
+    {
+      "source": "kinder",
+      "target": "mejor",
+      "value": 118.0
+    },
+    {
+      "source": "kinder",
+      "target": "felices",
+      "value": 101.0
+    },
+    {
+      "source": "kinder",
+      "target": "ahí",
+      "value": 114.0
+    },
+    {
+      "source": "kinder",
+      "target": "plaza",
+      "value": 106.0
+    },
+    {
+      "source": "kinder",
+      "target": "opción",
+      "value": 84.0
+    },
+    {
+      "source": "kinder",
+      "target": "hijo",
+      "value": 110.0
+    },
+    {
+      "source": "kinder",
+      "target": "académico",
+      "value": 72.0
+    },
+    {
+      "source": "kinder",
+      "target": "años",
+      "value": 74.0
+    },
+    {
+      "source": "kinder",
+      "target": "colegios",
+      "value": 81.0
+    },
+    {
+      "source": "kinder",
+      "target": "secundaria",
+      "value": 57.0
+    },
+    {
+      "source": "kinder",
+      "target": "sur",
+      "value": 41.0
+    },
+    {
+      "source": "kinder",
+      "target": "busco",
+      "value": 76.0
+    },
+    {
+      "source": "kinder",
+      "target": "información",
+      "value": 82.0
+    },
+    {
+      "source": "kinder",
+      "target": "bien",
+      "value": 91.0
+    },
+    {
+      "source": "kinder",
+      "target": "buenas",
+      "value": 45.0
+    },
+    {
+      "source": "kinder",
+      "target": "cerca",
+      "value": 56.0
+    },
+    {
+      "source": "kinder",
+      "target": "gracias",
+      "value": 70.0
+    },
+    {
+      "source": "kinder",
+      "target": "instalaciones",
+      "value": 73.0
+    },
+    {
+      "source": "kinder",
+      "target": "sol",
+      "value": 91.0
+    },
+    {
+      "source": "hijos",
+      "target": "bilingüe",
+      "value": 114.0
+    },
+    {
+      "source": "hijos",
+      "target": "escuela",
+      "value": 140.0
+    },
+    {
+      "source": "hijos",
+      "target": "buen",
+      "value": 167.0
+    },
+    {
+      "source": "hijos",
+      "target": "horario",
+      "value": 100.0
+    },
+    {
+      "source": "hijos",
+      "target": "excelente",
+      "value": 185.0
+    },
+    {
+      "source": "hijos",
+      "target": "inglés",
+      "value": 94.0
+    },
+    {
+      "source": "hijos",
+      "target": "preescolar",
+      "value": 114.0
+    },
+    {
+      "source": "hijos",
+      "target": "centro",
+      "value": 140.0
+    },
+    {
+      "source": "hijos",
+      "target": "campus",
+      "value": 143.0
+    },
+    {
+      "source": "hijos",
+      "target": "extendido",
+      "value": 79.0
+    },
+    {
+      "source": "hijos",
+      "target": "hija",
+      "value": 91.0
+    },
+    {
+      "source": "hijos",
+      "target": "https",
+      "value": 41.0
+    },
+    {
+      "source": "hijos",
+      "target": "escolar",
+      "value": 125.0
+    },
+    {
+      "source": "hijos",
+      "target": "mejor",
+      "value": 94.0
+    },
+    {
+      "source": "hijos",
+      "target": "felices",
+      "value": 154.0
+    },
+    {
+      "source": "hijos",
+      "target": "ahí",
+      "value": 138.0
+    },
+    {
+      "source": "hijos",
+      "target": "plaza",
+      "value": 62.0
+    },
+    {
+      "source": "hijos",
+      "target": "opción",
+      "value": 124.0
+    },
+    {
+      "source": "hijos",
+      "target": "hijo",
+      "value": 109.0
+    },
+    {
+      "source": "hijos",
+      "target": "académico",
+      "value": 136.0
+    },
+    {
+      "source": "hijos",
+      "target": "años",
+      "value": 77.0
+    },
+    {
+      "source": "hijos",
+      "target": "colegios",
+      "value": 64.0
+    },
+    {
+      "source": "hijos",
+      "target": "secundaria",
+      "value": 48.0
+    },
+    {
+      "source": "hijos",
+      "target": "sur",
+      "value": 105.0
+    },
+    {
+      "source": "hijos",
+      "target": "busco",
+      "value": 64.0
+    },
+    {
+      "source": "hijos",
+      "target": "información",
+      "value": 46.0
+    },
+    {
+      "source": "hijos",
+      "target": "bien",
+      "value": 91.0
+    },
+    {
+      "source": "hijos",
+      "target": "buenas",
+      "value": 81.0
+    },
+    {
+      "source": "hijos",
+      "target": "cerca",
+      "value": 74.0
+    },
+    {
+      "source": "hijos",
+      "target": "gracias",
+      "value": 63.0
+    },
+    {
+      "source": "hijos",
+      "target": "instalaciones",
+      "value": 103.0
+    },
+    {
+      "source": "hijos",
+      "target": "sol",
+      "value": 31.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "escuela",
+      "value": 82.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "buen",
+      "value": 125.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "horario",
+      "value": 161.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "excelente",
+      "value": 128.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "inglés",
+      "value": 111.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "preescolar",
+      "value": 172.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "centro",
+      "value": 116.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "campus",
+      "value": 109.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "extendido",
+      "value": 152.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "hija",
+      "value": 91.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "https",
+      "value": 127.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "escolar",
+      "value": 109.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "mejor",
+      "value": 67.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "felices",
+      "value": 89.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "ahí",
+      "value": 65.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "plaza",
+      "value": 120.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "opción",
+      "value": 94.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "hijo",
+      "value": 60.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "académico",
+      "value": 96.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "años",
+      "value": 49.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "colegios",
+      "value": 55.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "secundaria",
+      "value": 78.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "sur",
+      "value": 62.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "busco",
+      "value": 68.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "información",
+      "value": 59.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "bien",
+      "value": 37.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "buenas",
+      "value": 73.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "cerca",
+      "value": 97.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "gracias",
+      "value": 71.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "instalaciones",
+      "value": 68.0
+    },
+    {
+      "source": "bilingüe",
+      "target": "sol",
+      "value": 102.0
+    },
+    {
+      "source": "escuela",
+      "target": "buen",
+      "value": 80.0
+    },
+    {
+      "source": "escuela",
+      "target": "horario",
+      "value": 96.0
+    },
+    {
+      "source": "escuela",
+      "target": "excelente",
+      "value": 65.0
+    },
+    {
+      "source": "escuela",
+      "target": "inglés",
+      "value": 66.0
+    },
+    {
+      "source": "escuela",
+      "target": "preescolar",
+      "value": 63.0
+    },
+    {
+      "source": "escuela",
+      "target": "centro",
+      "value": 83.0
+    },
+    {
+      "source": "escuela",
+      "target": "campus",
+      "value": 78.0
+    },
+    {
+      "source": "escuela",
+      "target": "extendido",
+      "value": 67.0
+    },
+    {
+      "source": "escuela",
+      "target": "hija",
+      "value": 110.0
+    },
+    {
+      "source": "escuela",
+      "target": "https",
+      "value": 59.0
+    },
+    {
+      "source": "escuela",
+      "target": "escolar",
+      "value": 84.0
+    },
+    {
+      "source": "escuela",
+      "target": "mejor",
+      "value": 99.0
+    },
+    {
+      "source": "escuela",
+      "target": "felices",
+      "value": 71.0
+    },
+    {
+      "source": "escuela",
+      "target": "ahí",
+      "value": 108.0
+    },
+    {
+      "source": "escuela",
+      "target": "plaza",
+      "value": 63.0
+    },
+    {
+      "source": "escuela",
+      "target": "opción",
+      "value": 64.0
+    },
+    {
+      "source": "escuela",
+      "target": "hijo",
+      "value": 142.0
+    },
+    {
+      "source": "escuela",
+      "target": "académico",
+      "value": 43.0
+    },
+    {
+      "source": "escuela",
+      "target": "años",
+      "value": 64.0
+    },
+    {
+      "source": "escuela",
+      "target": "colegios",
+      "value": 106.0
+    },
+    {
+      "source": "escuela",
+      "target": "secundaria",
+      "value": 39.0
+    },
+    {
+      "source": "escuela",
+      "target": "sur",
+      "value": 37.0
+    },
+    {
+      "source": "escuela",
+      "target": "busco",
+      "value": 67.0
+    },
+    {
+      "source": "escuela",
+      "target": "información",
+      "value": 39.0
+    },
+    {
+      "source": "escuela",
+      "target": "bien",
+      "value": 74.0
+    },
+    {
+      "source": "escuela",
+      "target": "buenas",
+      "value": 64.0
+    },
+    {
+      "source": "escuela",
+      "target": "cerca",
+      "value": 76.0
+    },
+    {
+      "source": "escuela",
+      "target": "gracias",
+      "value": 41.0
+    },
+    {
+      "source": "escuela",
+      "target": "instalaciones",
+      "value": 50.0
+    },
+    {
+      "source": "escuela",
+      "target": "sol",
+      "value": 49.0
+    },
+    {
+      "source": "buen",
+      "target": "horario",
+      "value": 98.0
+    },
+    {
+      "source": "buen",
+      "target": "excelente",
+      "value": 164.0
+    },
+    {
+      "source": "buen",
+      "target": "inglés",
+      "value": 121.0
+    },
+    {
+      "source": "buen",
+      "target": "preescolar",
+      "value": 111.0
+    },
+    {
+      "source": "buen",
+      "target": "centro",
+      "value": 109.0
+    },
+    {
+      "source": "buen",
+      "target": "campus",
+      "value": 137.0
+    },
+    {
+      "source": "buen",
+      "target": "extendido",
+      "value": 82.0
+    },
+    {
+      "source": "buen",
+      "target": "hija",
+      "value": 79.0
+    },
+    {
+      "source": "buen",
+      "target": "https",
+      "value": 66.0
+    },
+    {
+      "source": "buen",
+      "target": "escolar",
+      "value": 111.0
+    },
+    {
+      "source": "buen",
+      "target": "mejor",
+      "value": 62.0
+    },
+    {
+      "source": "buen",
+      "target": "felices",
+      "value": 111.0
+    },
+    {
+      "source": "buen",
+      "target": "ahí",
+      "value": 89.0
+    },
+    {
+      "source": "buen",
+      "target": "plaza",
+      "value": 87.0
+    },
+    {
+      "source": "buen",
+      "target": "opción",
+      "value": 103.0
+    },
+    {
+      "source": "buen",
+      "target": "hijo",
+      "value": 84.0
+    },
+    {
+      "source": "buen",
+      "target": "académico",
+      "value": 151.0
+    },
+    {
+      "source": "buen",
+      "target": "años",
+      "value": 62.0
+    },
+    {
+      "source": "buen",
+      "target": "colegios",
+      "value": 86.0
+    },
+    {
+      "source": "buen",
+      "target": "secundaria",
+      "value": 71.0
+    },
+    {
+      "source": "buen",
+      "target": "sur",
+      "value": 142.0
+    },
+    {
+      "source": "buen",
+      "target": "busco",
+      "value": 80.0
+    },
+    {
+      "source": "buen",
+      "target": "información",
+      "value": 41.0
+    },
+    {
+      "source": "buen",
+      "target": "bien",
+      "value": 58.0
+    },
+    {
+      "source": "buen",
+      "target": "buenas",
+      "value": 96.0
+    },
+    {
+      "source": "buen",
+      "target": "cerca",
+      "value": 82.0
+    },
+    {
+      "source": "buen",
+      "target": "gracias",
+      "value": 69.0
+    },
+    {
+      "source": "buen",
+      "target": "instalaciones",
+      "value": 88.0
+    },
+    {
+      "source": "buen",
+      "target": "sol",
+      "value": 54.0
+    },
+    {
+      "source": "horario",
+      "target": "excelente",
+      "value": 75.0
+    },
+    {
+      "source": "horario",
+      "target": "inglés",
+      "value": 78.0
+    },
+    {
+      "source": "horario",
+      "target": "preescolar",
+      "value": 141.0
+    },
+    {
+      "source": "horario",
+      "target": "centro",
+      "value": 94.0
+    },
+    {
+      "source": "horario",
+      "target": "campus",
+      "value": 57.0
+    },
+    {
+      "source": "horario",
+      "target": "extendido",
+      "value": 399.0
+    },
+    {
+      "source": "horario",
+      "target": "hija",
+      "value": 63.0
+    },
+    {
+      "source": "horario",
+      "target": "https",
+      "value": 144.0
+    },
+    {
+      "source": "horario",
+      "target": "escolar",
+      "value": 87.0
+    },
+    {
+      "source": "horario",
+      "target": "mejor",
+      "value": 55.0
+    },
+    {
+      "source": "horario",
+      "target": "felices",
+      "value": 79.0
+    },
+    {
+      "source": "horario",
+      "target": "ahí",
+      "value": 93.0
+    },
+    {
+      "source": "horario",
+      "target": "plaza",
+      "value": 127.0
+    },
+    {
+      "source": "horario",
+      "target": "opción",
+      "value": 73.0
+    },
+    {
+      "source": "horario",
+      "target": "hijo",
+      "value": 73.0
+    },
+    {
+      "source": "horario",
+      "target": "académico",
+      "value": 59.0
+    },
+    {
+      "source": "horario",
+      "target": "años",
+      "value": 42.0
+    },
+    {
+      "source": "horario",
+      "target": "colegios",
+      "value": 40.0
+    },
+    {
+      "source": "horario",
+      "target": "secundaria",
+      "value": 68.0
+    },
+    {
+      "source": "horario",
+      "target": "sur",
+      "value": 12.0
+    },
+    {
+      "source": "horario",
+      "target": "busco",
+      "value": 66.0
+    },
+    {
+      "source": "horario",
+      "target": "información",
+      "value": 54.0
+    },
+    {
+      "source": "horario",
+      "target": "bien",
+      "value": 46.0
+    },
+    {
+      "source": "horario",
+      "target": "buenas",
+      "value": 46.0
+    },
+    {
+      "source": "horario",
+      "target": "cerca",
+      "value": 54.0
+    },
+    {
+      "source": "horario",
+      "target": "gracias",
+      "value": 57.0
+    },
+    {
+      "source": "horario",
+      "target": "instalaciones",
+      "value": 48.0
+    },
+    {
+      "source": "horario",
+      "target": "sol",
+      "value": 93.0
+    },
+    {
+      "source": "excelente",
+      "target": "inglés",
+      "value": 61.0
+    },
+    {
+      "source": "excelente",
+      "target": "preescolar",
+      "value": 117.0
+    },
+    {
+      "source": "excelente",
+      "target": "centro",
+      "value": 143.0
+    },
+    {
+      "source": "excelente",
+      "target": "campus",
+      "value": 160.0
+    },
+    {
+      "source": "excelente",
+      "target": "extendido",
+      "value": 69.0
+    },
+    {
+      "source": "excelente",
+      "target": "hija",
+      "value": 93.0
+    },
+    {
+      "source": "excelente",
+      "target": "https",
+      "value": 69.0
+    },
+    {
+      "source": "excelente",
+      "target": "escolar",
+      "value": 87.0
+    },
+    {
+      "source": "excelente",
+      "target": "mejor",
+      "value": 64.0
+    },
+    {
+      "source": "excelente",
+      "target": "felices",
+      "value": 86.0
+    },
+    {
+      "source": "excelente",
+      "target": "ahí",
+      "value": 98.0
+    },
+    {
+      "source": "excelente",
+      "target": "plaza",
+      "value": 66.0
+    },
+    {
+      "source": "excelente",
+      "target": "opción",
+      "value": 157.0
+    },
+    {
+      "source": "excelente",
+      "target": "hijo",
+      "value": 93.0
+    },
+    {
+      "source": "excelente",
+      "target": "académico",
+      "value": 142.0
+    },
+    {
+      "source": "excelente",
+      "target": "años",
+      "value": 58.0
+    },
+    {
+      "source": "excelente",
+      "target": "colegios",
+      "value": 65.0
+    },
+    {
+      "source": "excelente",
+      "target": "secundaria",
+      "value": 71.0
+    },
+    {
+      "source": "excelente",
+      "target": "sur",
+      "value": 148.0
+    },
+    {
+      "source": "excelente",
+      "target": "busco",
+      "value": 57.0
+    },
+    {
+      "source": "excelente",
+      "target": "información",
+      "value": 57.0
+    },
+    {
+      "source": "excelente",
+      "target": "bien",
+      "value": 69.0
+    },
+    {
+      "source": "excelente",
+      "target": "buenas",
+      "value": 76.0
+    },
+    {
+      "source": "excelente",
+      "target": "cerca",
+      "value": 46.0
+    },
+    {
+      "source": "excelente",
+      "target": "gracias",
+      "value": 53.0
+    },
+    {
+      "source": "excelente",
+      "target": "instalaciones",
+      "value": 102.0
+    },
+    {
+      "source": "excelente",
+      "target": "sol",
+      "value": 30.0
+    },
+    {
+      "source": "inglés",
+      "target": "preescolar",
+      "value": 96.0
+    },
+    {
+      "source": "inglés",
+      "target": "centro",
+      "value": 84.0
+    },
+    {
+      "source": "inglés",
+      "target": "campus",
+      "value": 68.0
+    },
+    {
+      "source": "inglés",
+      "target": "extendido",
+      "value": 64.0
+    },
+    {
+      "source": "inglés",
+      "target": "hija",
+      "value": 58.0
+    },
+    {
+      "source": "inglés",
+      "target": "https",
+      "value": 86.0
+    },
+    {
+      "source": "inglés",
+      "target": "escolar",
+      "value": 78.0
+    },
+    {
+      "source": "inglés",
+      "target": "mejor",
+      "value": 65.0
+    },
+    {
+      "source": "inglés",
+      "target": "felices",
+      "value": 105.0
+    },
+    {
+      "source": "inglés",
+      "target": "ahí",
+      "value": 62.0
+    },
+    {
+      "source": "inglés",
+      "target": "plaza",
+      "value": 66.0
+    },
+    {
+      "source": "inglés",
+      "target": "opción",
+      "value": 49.0
+    },
+    {
+      "source": "inglés",
+      "target": "hijo",
+      "value": 53.0
+    },
+    {
+      "source": "inglés",
+      "target": "académico",
+      "value": 84.0
+    },
+    {
+      "source": "inglés",
+      "target": "años",
+      "value": 70.0
+    },
+    {
+      "source": "inglés",
+      "target": "colegios",
+      "value": 115.0
+    },
+    {
+      "source": "inglés",
+      "target": "secundaria",
+      "value": 122.0
+    },
+    {
+      "source": "inglés",
+      "target": "sur",
+      "value": 50.0
+    },
+    {
+      "source": "inglés",
+      "target": "busco",
+      "value": 70.0
+    },
+    {
+      "source": "inglés",
+      "target": "información",
+      "value": 57.0
+    },
+    {
+      "source": "inglés",
+      "target": "bien",
+      "value": 42.0
+    },
+    {
+      "source": "inglés",
+      "target": "buenas",
+      "value": 51.0
+    },
+    {
+      "source": "inglés",
+      "target": "cerca",
+      "value": 56.0
+    },
+    {
+      "source": "inglés",
+      "target": "gracias",
+      "value": 62.0
+    },
+    {
+      "source": "inglés",
+      "target": "instalaciones",
+      "value": 42.0
+    },
+    {
+      "source": "inglés",
+      "target": "sol",
+      "value": 51.0
+    },
+    {
+      "source": "preescolar",
+      "target": "centro",
+      "value": 128.0
+    },
+    {
+      "source": "preescolar",
+      "target": "campus",
+      "value": 75.0
+    },
+    {
+      "source": "preescolar",
+      "target": "extendido",
+      "value": 132.0
+    },
+    {
+      "source": "preescolar",
+      "target": "hija",
+      "value": 79.0
+    },
+    {
+      "source": "preescolar",
+      "target": "https",
+      "value": 112.0
+    },
+    {
+      "source": "preescolar",
+      "target": "escolar",
+      "value": 88.0
+    },
+    {
+      "source": "preescolar",
+      "target": "mejor",
+      "value": 42.0
+    },
+    {
+      "source": "preescolar",
+      "target": "felices",
+      "value": 78.0
+    },
+    {
+      "source": "preescolar",
+      "target": "ahí",
+      "value": 69.0
+    },
+    {
+      "source": "preescolar",
+      "target": "plaza",
+      "value": 103.0
+    },
+    {
+      "source": "preescolar",
+      "target": "opción",
+      "value": 71.0
+    },
+    {
+      "source": "preescolar",
+      "target": "hijo",
+      "value": 47.0
+    },
+    {
+      "source": "preescolar",
+      "target": "académico",
+      "value": 77.0
+    },
+    {
+      "source": "preescolar",
+      "target": "años",
+      "value": 59.0
+    },
+    {
+      "source": "preescolar",
+      "target": "colegios",
+      "value": 38.0
+    },
+    {
+      "source": "preescolar",
+      "target": "secundaria",
+      "value": 88.0
+    },
+    {
+      "source": "preescolar",
+      "target": "sur",
+      "value": 66.0
+    },
+    {
+      "source": "preescolar",
+      "target": "busco",
+      "value": 65.0
+    },
+    {
+      "source": "preescolar",
+      "target": "información",
+      "value": 47.0
+    },
+    {
+      "source": "preescolar",
+      "target": "bien",
+      "value": 33.0
+    },
+    {
+      "source": "preescolar",
+      "target": "buenas",
+      "value": 54.0
+    },
+    {
+      "source": "preescolar",
+      "target": "cerca",
+      "value": 50.0
+    },
+    {
+      "source": "preescolar",
+      "target": "gracias",
+      "value": 61.0
+    },
+    {
+      "source": "preescolar",
+      "target": "instalaciones",
+      "value": 51.0
+    },
+    {
+      "source": "preescolar",
+      "target": "sol",
+      "value": 79.0
+    },
+    {
+      "source": "centro",
+      "target": "campus",
+      "value": 110.0
+    },
+    {
+      "source": "centro",
+      "target": "extendido",
+      "value": 81.0
+    },
+    {
+      "source": "centro",
+      "target": "hija",
+      "value": 87.0
+    },
+    {
+      "source": "centro",
+      "target": "https",
+      "value": 63.0
+    },
+    {
+      "source": "centro",
+      "target": "escolar",
+      "value": 136.0
+    },
+    {
+      "source": "centro",
+      "target": "mejor",
+      "value": 67.0
+    },
+    {
+      "source": "centro",
+      "target": "felices",
+      "value": 96.0
+    },
+    {
+      "source": "centro",
+      "target": "ahí",
+      "value": 125.0
+    },
+    {
+      "source": "centro",
+      "target": "plaza",
+      "value": 69.0
+    },
+    {
+      "source": "centro",
+      "target": "opción",
+      "value": 88.0
+    },
+    {
+      "source": "centro",
+      "target": "hijo",
+      "value": 74.0
+    },
+    {
+      "source": "centro",
+      "target": "académico",
+      "value": 75.0
+    },
+    {
+      "source": "centro",
+      "target": "años",
+      "value": 77.0
+    },
+    {
+      "source": "centro",
+      "target": "colegios",
+      "value": 39.0
+    },
+    {
+      "source": "centro",
+      "target": "secundaria",
+      "value": 51.0
+    },
+    {
+      "source": "centro",
+      "target": "sur",
+      "value": 64.0
+    },
+    {
+      "source": "centro",
+      "target": "busco",
+      "value": 76.0
+    },
+    {
+      "source": "centro",
+      "target": "información",
+      "value": 41.0
+    },
+    {
+      "source": "centro",
+      "target": "bien",
+      "value": 60.0
+    },
+    {
+      "source": "centro",
+      "target": "buenas",
+      "value": 67.0
+    },
+    {
+      "source": "centro",
+      "target": "cerca",
+      "value": 36.0
+    },
+    {
+      "source": "centro",
+      "target": "gracias",
+      "value": 73.0
+    },
+    {
+      "source": "centro",
+      "target": "instalaciones",
+      "value": 69.0
+    },
+    {
+      "source": "centro",
+      "target": "sol",
+      "value": 57.0
+    },
+    {
+      "source": "campus",
+      "target": "extendido",
+      "value": 55.0
+    },
+    {
+      "source": "campus",
+      "target": "hija",
+      "value": 92.0
+    },
+    {
+      "source": "campus",
+      "target": "https",
+      "value": 71.0
+    },
+    {
+      "source": "campus",
+      "target": "escolar",
+      "value": 119.0
+    },
+    {
+      "source": "campus",
+      "target": "mejor",
+      "value": 62.0
+    },
+    {
+      "source": "campus",
+      "target": "felices",
+      "value": 77.0
+    },
+    {
+      "source": "campus",
+      "target": "ahí",
+      "value": 49.0
+    },
+    {
+      "source": "campus",
+      "target": "plaza",
+      "value": 41.0
+    },
+    {
+      "source": "campus",
+      "target": "opción",
+      "value": 128.0
+    },
+    {
+      "source": "campus",
+      "target": "hijo",
+      "value": 73.0
+    },
+    {
+      "source": "campus",
+      "target": "académico",
+      "value": 103.0
+    },
+    {
+      "source": "campus",
+      "target": "años",
+      "value": 55.0
+    },
+    {
+      "source": "campus",
+      "target": "colegios",
+      "value": 71.0
+    },
+    {
+      "source": "campus",
+      "target": "secundaria",
+      "value": 43.0
+    },
+    {
+      "source": "campus",
+      "target": "sur",
+      "value": 180.0
+    },
+    {
+      "source": "campus",
+      "target": "busco",
+      "value": 50.0
+    },
+    {
+      "source": "campus",
+      "target": "información",
+      "value": 30.0
+    },
+    {
+      "source": "campus",
+      "target": "bien",
+      "value": 57.0
+    },
+    {
+      "source": "campus",
+      "target": "buenas",
+      "value": 93.0
+    },
+    {
+      "source": "campus",
+      "target": "cerca",
+      "value": 34.0
+    },
+    {
+      "source": "campus",
+      "target": "gracias",
+      "value": 51.0
+    },
+    {
+      "source": "campus",
+      "target": "instalaciones",
+      "value": 93.0
+    },
+    {
+      "source": "campus",
+      "target": "sol",
+      "value": 27.0
+    },
+    {
+      "source": "extendido",
+      "target": "hija",
+      "value": 55.0
+    },
+    {
+      "source": "extendido",
+      "target": "https",
+      "value": 124.0
+    },
+    {
+      "source": "extendido",
+      "target": "escolar",
+      "value": 80.0
+    },
+    {
+      "source": "extendido",
+      "target": "mejor",
+      "value": 43.0
+    },
+    {
+      "source": "extendido",
+      "target": "felices",
+      "value": 64.0
+    },
+    {
+      "source": "extendido",
+      "target": "ahí",
+      "value": 73.0
+    },
+    {
+      "source": "extendido",
+      "target": "plaza",
+      "value": 107.0
+    },
+    {
+      "source": "extendido",
+      "target": "opción",
+      "value": 65.0
+    },
+    {
+      "source": "extendido",
+      "target": "hijo",
+      "value": 63.0
+    },
+    {
+      "source": "extendido",
+      "target": "académico",
+      "value": 52.0
+    },
+    {
+      "source": "extendido",
+      "target": "años",
+      "value": 37.0
+    },
+    {
+      "source": "extendido",
+      "target": "colegios",
+      "value": 27.0
+    },
+    {
+      "source": "extendido",
+      "target": "secundaria",
+      "value": 63.0
+    },
+    {
+      "source": "extendido",
+      "target": "sur",
+      "value": 12.0
+    },
+    {
+      "source": "extendido",
+      "target": "busco",
+      "value": 60.0
+    },
+    {
+      "source": "extendido",
+      "target": "información",
+      "value": 46.0
+    },
+    {
+      "source": "extendido",
+      "target": "bien",
+      "value": 33.0
+    },
+    {
+      "source": "extendido",
+      "target": "buenas",
+      "value": 41.0
+    },
+    {
+      "source": "extendido",
+      "target": "cerca",
+      "value": 39.0
+    },
+    {
+      "source": "extendido",
+      "target": "gracias",
+      "value": 44.0
+    },
+    {
+      "source": "extendido",
+      "target": "instalaciones",
+      "value": 43.0
+    },
+    {
+      "source": "extendido",
+      "target": "sol",
+      "value": 83.0
+    },
+    {
+      "source": "hija",
+      "target": "https",
+      "value": 49.0
+    },
+    {
+      "source": "hija",
+      "target": "escolar",
+      "value": 68.0
+    },
+    {
+      "source": "hija",
+      "target": "mejor",
+      "value": 97.0
+    },
+    {
+      "source": "hija",
+      "target": "felices",
+      "value": 51.0
+    },
+    {
+      "source": "hija",
+      "target": "ahí",
+      "value": 79.0
+    },
+    {
+      "source": "hija",
+      "target": "plaza",
+      "value": 50.0
+    },
+    {
+      "source": "hija",
+      "target": "opción",
+      "value": 69.0
+    },
+    {
+      "source": "hija",
+      "target": "hijo",
+      "value": 75.0
+    },
+    {
+      "source": "hija",
+      "target": "académico",
+      "value": 59.0
+    },
+    {
+      "source": "hija",
+      "target": "años",
+      "value": 67.0
+    },
+    {
+      "source": "hija",
+      "target": "colegios",
+      "value": 51.0
+    },
+    {
+      "source": "hija",
+      "target": "secundaria",
+      "value": 47.0
+    },
+    {
+      "source": "hija",
+      "target": "sur",
+      "value": 76.0
+    },
+    {
+      "source": "hija",
+      "target": "busco",
+      "value": 48.0
+    },
+    {
+      "source": "hija",
+      "target": "información",
+      "value": 27.0
+    },
+    {
+      "source": "hija",
+      "target": "bien",
+      "value": 71.0
+    },
+    {
+      "source": "hija",
+      "target": "buenas",
+      "value": 38.0
+    },
+    {
+      "source": "hija",
+      "target": "cerca",
+      "value": 36.0
+    },
+    {
+      "source": "hija",
+      "target": "gracias",
+      "value": 40.0
+    },
+    {
+      "source": "hija",
+      "target": "instalaciones",
+      "value": 55.0
+    },
+    {
+      "source": "hija",
+      "target": "sol",
+      "value": 44.0
+    },
+    {
+      "source": "https",
+      "target": "escolar",
+      "value": 57.0
+    },
+    {
+      "source": "https",
+      "target": "mejor",
+      "value": 39.0
+    },
+    {
+      "source": "https",
+      "target": "felices",
+      "value": 49.0
+    },
+    {
+      "source": "https",
+      "target": "ahí",
+      "value": 30.0
+    },
+    {
+      "source": "https",
+      "target": "plaza",
+      "value": 107.0
+    },
+    {
+      "source": "https",
+      "target": "opción",
+      "value": 49.0
+    },
+    {
+      "source": "https",
+      "target": "hijo",
+      "value": 25.0
+    },
+    {
+      "source": "https",
+      "target": "académico",
+      "value": 48.0
+    },
+    {
+      "source": "https",
+      "target": "años",
+      "value": 31.0
+    },
+    {
+      "source": "https",
+      "target": "colegios",
+      "value": 59.0
+    },
+    {
+      "source": "https",
+      "target": "secundaria",
+      "value": 64.0
+    },
+    {
+      "source": "https",
+      "target": "sur",
+      "value": 40.0
+    },
+    {
+      "source": "https",
+      "target": "busco",
+      "value": 60.0
+    },
+    {
+      "source": "https",
+      "target": "información",
+      "value": 78.0
+    },
+    {
+      "source": "https",
+      "target": "bien",
+      "value": 19.0
+    },
+    {
+      "source": "https",
+      "target": "buenas",
+      "value": 33.0
+    },
+    {
+      "source": "https",
+      "target": "cerca",
+      "value": 46.0
+    },
+    {
+      "source": "https",
+      "target": "gracias",
+      "value": 52.0
+    },
+    {
+      "source": "https",
+      "target": "instalaciones",
+      "value": 31.0
+    },
+    {
+      "source": "https",
+      "target": "sol",
+      "value": 69.0
+    },
+    {
+      "source": "escolar",
+      "target": "mejor",
+      "value": 47.0
+    },
+    {
+      "source": "escolar",
+      "target": "felices",
+      "value": 100.0
+    },
+    {
+      "source": "escolar",
+      "target": "ahí",
+      "value": 64.0
+    },
+    {
+      "source": "escolar",
+      "target": "plaza",
+      "value": 47.0
+    },
+    {
+      "source": "escolar",
+      "target": "opción",
+      "value": 68.0
+    },
+    {
+      "source": "escolar",
+      "target": "hijo",
+      "value": 54.0
+    },
+    {
+      "source": "escolar",
+      "target": "académico",
+      "value": 82.0
+    },
+    {
+      "source": "escolar",
+      "target": "años",
+      "value": 75.0
+    },
+    {
+      "source": "escolar",
+      "target": "colegios",
+      "value": 40.0
+    },
+    {
+      "source": "escolar",
+      "target": "secundaria",
+      "value": 43.0
+    },
+    {
+      "source": "escolar",
+      "target": "sur",
+      "value": 64.0
+    },
+    {
+      "source": "escolar",
+      "target": "busco",
+      "value": 57.0
+    },
+    {
+      "source": "escolar",
+      "target": "información",
+      "value": 22.0
+    },
+    {
+      "source": "escolar",
+      "target": "bien",
+      "value": 40.0
+    },
+    {
+      "source": "escolar",
+      "target": "buenas",
+      "value": 63.0
+    },
+    {
+      "source": "escolar",
+      "target": "cerca",
+      "value": 43.0
+    },
+    {
+      "source": "escolar",
+      "target": "gracias",
+      "value": 51.0
+    },
+    {
+      "source": "escolar",
+      "target": "instalaciones",
+      "value": 66.0
+    },
+    {
+      "source": "escolar",
+      "target": "sol",
+      "value": 32.0
+    },
+    {
+      "source": "mejor",
+      "target": "felices",
+      "value": 61.0
+    },
+    {
+      "source": "mejor",
+      "target": "ahí",
+      "value": 91.0
+    },
+    {
+      "source": "mejor",
+      "target": "plaza",
+      "value": 25.0
+    },
+    {
+      "source": "mejor",
+      "target": "opción",
+      "value": 68.0
+    },
+    {
+      "source": "mejor",
+      "target": "hijo",
+      "value": 83.0
+    },
+    {
+      "source": "mejor",
+      "target": "académico",
+      "value": 41.0
+    },
+    {
+      "source": "mejor",
+      "target": "años",
+      "value": 84.0
+    },
+    {
+      "source": "mejor",
+      "target": "colegios",
+      "value": 66.0
+    },
+    {
+      "source": "mejor",
+      "target": "secundaria",
+      "value": 32.0
+    },
+    {
+      "source": "mejor",
+      "target": "sur",
+      "value": 42.0
+    },
+    {
+      "source": "mejor",
+      "target": "busco",
+      "value": 25.0
+    },
+    {
+      "source": "mejor",
+      "target": "información",
+      "value": 65.0
+    },
+    {
+      "source": "mejor",
+      "target": "bien",
+      "value": 76.0
+    },
+    {
+      "source": "mejor",
+      "target": "buenas",
+      "value": 36.0
+    },
+    {
+      "source": "mejor",
+      "target": "cerca",
+      "value": 43.0
+    },
+    {
+      "source": "mejor",
+      "target": "gracias",
+      "value": 45.0
+    },
+    {
+      "source": "mejor",
+      "target": "instalaciones",
+      "value": 45.0
+    },
+    {
+      "source": "mejor",
+      "target": "sol",
+      "value": 17.0
+    },
+    {
+      "source": "felices",
+      "target": "ahí",
+      "value": 89.0
+    },
+    {
+      "source": "felices",
+      "target": "plaza",
+      "value": 52.0
+    },
+    {
+      "source": "felices",
+      "target": "opción",
+      "value": 60.0
+    },
+    {
+      "source": "felices",
+      "target": "hijo",
+      "value": 63.0
+    },
+    {
+      "source": "felices",
+      "target": "académico",
+      "value": 97.0
+    },
+    {
+      "source": "felices",
+      "target": "años",
+      "value": 69.0
+    },
+    {
+      "source": "felices",
+      "target": "colegios",
+      "value": 37.0
+    },
+    {
+      "source": "felices",
+      "target": "secundaria",
+      "value": 45.0
+    },
+    {
+      "source": "felices",
+      "target": "sur",
+      "value": 54.0
+    },
+    {
+      "source": "felices",
+      "target": "busco",
+      "value": 39.0
+    },
+    {
+      "source": "felices",
+      "target": "información",
+      "value": 24.0
+    },
+    {
+      "source": "felices",
+      "target": "bien",
+      "value": 45.0
+    },
+    {
+      "source": "felices",
+      "target": "buenas",
+      "value": 40.0
+    },
+    {
+      "source": "felices",
+      "target": "cerca",
+      "value": 52.0
+    },
+    {
+      "source": "felices",
+      "target": "gracias",
+      "value": 38.0
+    },
+    {
+      "source": "felices",
+      "target": "instalaciones",
+      "value": 63.0
+    },
+    {
+      "source": "felices",
+      "target": "sol",
+      "value": 24.0
+    },
+    {
+      "source": "ahí",
+      "target": "plaza",
+      "value": 46.0
+    },
+    {
+      "source": "ahí",
+      "target": "opción",
+      "value": 52.0
+    },
+    {
+      "source": "ahí",
+      "target": "hijo",
+      "value": 96.0
+    },
+    {
+      "source": "ahí",
+      "target": "académico",
+      "value": 62.0
+    },
+    {
+      "source": "ahí",
+      "target": "años",
+      "value": 69.0
+    },
+    {
+      "source": "ahí",
+      "target": "colegios",
+      "value": 44.0
+    },
+    {
+      "source": "ahí",
+      "target": "secundaria",
+      "value": 44.0
+    },
+    {
+      "source": "ahí",
+      "target": "sur",
+      "value": 28.0
+    },
+    {
+      "source": "ahí",
+      "target": "busco",
+      "value": 45.0
+    },
+    {
+      "source": "ahí",
+      "target": "información",
+      "value": 28.0
+    },
+    {
+      "source": "ahí",
+      "target": "bien",
+      "value": 68.0
+    },
+    {
+      "source": "ahí",
+      "target": "buenas",
+      "value": 39.0
+    },
+    {
+      "source": "ahí",
+      "target": "cerca",
+      "value": 47.0
+    },
+    {
+      "source": "ahí",
+      "target": "gracias",
+      "value": 35.0
+    },
+    {
+      "source": "ahí",
+      "target": "instalaciones",
+      "value": 53.0
+    },
+    {
+      "source": "ahí",
+      "target": "sol",
+      "value": 33.0
+    },
+    {
+      "source": "plaza",
+      "target": "opción",
+      "value": 45.0
+    },
+    {
+      "source": "plaza",
+      "target": "hijo",
+      "value": 32.0
+    },
+    {
+      "source": "plaza",
+      "target": "académico",
+      "value": 53.0
+    },
+    {
+      "source": "plaza",
+      "target": "años",
+      "value": 44.0
+    },
+    {
+      "source": "plaza",
+      "target": "colegios",
+      "value": 44.0
+    },
+    {
+      "source": "plaza",
+      "target": "secundaria",
+      "value": 55.0
+    },
+    {
+      "source": "plaza",
+      "target": "sur",
+      "value": 42.0
+    },
+    {
+      "source": "plaza",
+      "target": "busco",
+      "value": 66.0
+    },
+    {
+      "source": "plaza",
+      "target": "información",
+      "value": 50.0
+    },
+    {
+      "source": "plaza",
+      "target": "bien",
+      "value": 24.0
+    },
+    {
+      "source": "plaza",
+      "target": "buenas",
+      "value": 38.0
+    },
+    {
+      "source": "plaza",
+      "target": "cerca",
+      "value": 78.0
+    },
+    {
+      "source": "plaza",
+      "target": "gracias",
+      "value": 34.0
+    },
+    {
+      "source": "plaza",
+      "target": "instalaciones",
+      "value": 30.0
+    },
+    {
+      "source": "plaza",
+      "target": "sol",
+      "value": 148.0
+    },
+    {
+      "source": "opción",
+      "target": "hijo",
+      "value": 60.0
+    },
+    {
+      "source": "opción",
+      "target": "académico",
+      "value": 69.0
+    },
+    {
+      "source": "opción",
+      "target": "años",
+      "value": 54.0
+    },
+    {
+      "source": "opción",
+      "target": "colegios",
+      "value": 60.0
+    },
+    {
+      "source": "opción",
+      "target": "secundaria",
+      "value": 40.0
+    },
+    {
+      "source": "opción",
+      "target": "sur",
+      "value": 95.0
+    },
+    {
+      "source": "opción",
+      "target": "busco",
+      "value": 39.0
+    },
+    {
+      "source": "opción",
+      "target": "información",
+      "value": 37.0
+    },
+    {
+      "source": "opción",
+      "target": "bien",
+      "value": 55.0
+    },
+    {
+      "source": "opción",
+      "target": "buenas",
+      "value": 69.0
+    },
+    {
+      "source": "opción",
+      "target": "cerca",
+      "value": 35.0
+    },
+    {
+      "source": "opción",
+      "target": "gracias",
+      "value": 36.0
+    },
+    {
+      "source": "opción",
+      "target": "instalaciones",
+      "value": 73.0
+    },
+    {
+      "source": "opción",
+      "target": "sol",
+      "value": 26.0
+    },
+    {
+      "source": "hijo",
+      "target": "académico",
+      "value": 60.0
+    },
+    {
+      "source": "hijo",
+      "target": "años",
+      "value": 55.0
+    },
+    {
+      "source": "hijo",
+      "target": "colegios",
+      "value": 81.0
+    },
+    {
+      "source": "hijo",
+      "target": "secundaria",
+      "value": 29.0
+    },
+    {
+      "source": "hijo",
+      "target": "sur",
+      "value": 65.0
+    },
+    {
+      "source": "hijo",
+      "target": "busco",
+      "value": 48.0
+    },
+    {
+      "source": "hijo",
+      "target": "información",
+      "value": 39.0
+    },
+    {
+      "source": "hijo",
+      "target": "bien",
+      "value": 53.0
+    },
+    {
+      "source": "hijo",
+      "target": "buenas",
+      "value": 38.0
+    },
+    {
+      "source": "hijo",
+      "target": "cerca",
+      "value": 27.0
+    },
+    {
+      "source": "hijo",
+      "target": "gracias",
+      "value": 26.0
+    },
+    {
+      "source": "hijo",
+      "target": "instalaciones",
+      "value": 65.0
+    },
+    {
+      "source": "hijo",
+      "target": "sol",
+      "value": 18.0
+    },
+    {
+      "source": "académico",
+      "target": "años",
+      "value": 46.0
+    },
+    {
+      "source": "académico",
+      "target": "colegios",
+      "value": 51.0
+    },
+    {
+      "source": "académico",
+      "target": "secundaria",
+      "value": 42.0
+    },
+    {
+      "source": "académico",
+      "target": "sur",
+      "value": 107.0
+    },
+    {
+      "source": "académico",
+      "target": "busco",
+      "value": 40.0
+    },
+    {
+      "source": "académico",
+      "target": "información",
+      "value": 28.0
+    },
+    {
+      "source": "académico",
+      "target": "bien",
+      "value": 41.0
+    },
+    {
+      "source": "académico",
+      "target": "buenas",
+      "value": 54.0
+    },
+    {
+      "source": "académico",
+      "target": "cerca",
+      "value": 48.0
+    },
+    {
+      "source": "académico",
+      "target": "gracias",
+      "value": 36.0
+    },
+    {
+      "source": "académico",
+      "target": "instalaciones",
+      "value": 78.0
+    },
+    {
+      "source": "académico",
+      "target": "sol",
+      "value": 30.0
+    },
+    {
+      "source": "años",
+      "target": "colegios",
+      "value": 43.0
+    },
+    {
+      "source": "años",
+      "target": "secundaria",
+      "value": 69.0
+    },
+    {
+      "source": "años",
+      "target": "sur",
+      "value": 39.0
+    },
+    {
+      "source": "años",
+      "target": "busco",
+      "value": 32.0
+    },
+    {
+      "source": "años",
+      "target": "información",
+      "value": 81.0
+    },
+    {
+      "source": "años",
+      "target": "bien",
+      "value": 44.0
+    },
+    {
+      "source": "años",
+      "target": "buenas",
+      "value": 31.0
+    },
+    {
+      "source": "años",
+      "target": "cerca",
+      "value": 26.0
+    },
+    {
+      "source": "años",
+      "target": "gracias",
+      "value": 32.0
+    },
+    {
+      "source": "años",
+      "target": "instalaciones",
+      "value": 45.0
+    },
+    {
+      "source": "años",
+      "target": "sol",
+      "value": 30.0
+    },
+    {
+      "source": "colegios",
+      "target": "secundaria",
+      "value": 66.0
+    },
+    {
+      "source": "colegios",
+      "target": "sur",
+      "value": 56.0
+    },
+    {
+      "source": "colegios",
+      "target": "busco",
+      "value": 50.0
+    },
+    {
+      "source": "colegios",
+      "target": "información",
+      "value": 33.0
+    },
+    {
+      "source": "colegios",
+      "target": "bien",
+      "value": 45.0
+    },
+    {
+      "source": "colegios",
+      "target": "buenas",
+      "value": 64.0
+    },
+    {
+      "source": "colegios",
+      "target": "cerca",
+      "value": 46.0
+    },
+    {
+      "source": "colegios",
+      "target": "gracias",
+      "value": 37.0
+    },
+    {
+      "source": "colegios",
+      "target": "instalaciones",
+      "value": 39.0
+    },
+    {
+      "source": "colegios",
+      "target": "sol",
+      "value": 37.0
+    },
+    {
+      "source": "secundaria",
+      "target": "sur",
+      "value": 52.0
+    },
+    {
+      "source": "secundaria",
+      "target": "busco",
+      "value": 56.0
+    },
+    {
+      "source": "secundaria",
+      "target": "información",
+      "value": 43.0
+    },
+    {
+      "source": "secundaria",
+      "target": "bien",
+      "value": 24.0
+    },
+    {
+      "source": "secundaria",
+      "target": "buenas",
+      "value": 20.0
+    },
+    {
+      "source": "secundaria",
+      "target": "cerca",
+      "value": 38.0
+    },
+    {
+      "source": "secundaria",
+      "target": "gracias",
+      "value": 39.0
+    },
+    {
+      "source": "secundaria",
+      "target": "instalaciones",
+      "value": 31.0
+    },
+    {
+      "source": "secundaria",
+      "target": "sol",
+      "value": 41.0
+    },
+    {
+      "source": "sur",
+      "target": "busco",
+      "value": 26.0
+    },
+    {
+      "source": "sur",
+      "target": "información",
+      "value": 24.0
+    },
+    {
+      "source": "sur",
+      "target": "bien",
+      "value": 36.0
+    },
+    {
+      "source": "sur",
+      "target": "buenas",
+      "value": 71.0
+    },
+    {
+      "source": "sur",
+      "target": "cerca",
+      "value": 11.0
+    },
+    {
+      "source": "sur",
+      "target": "gracias",
+      "value": 49.0
+    },
+    {
+      "source": "sur",
+      "target": "instalaciones",
+      "value": 78.0
+    },
+    {
+      "source": "sur",
+      "target": "sol",
+      "value": 31.0
+    },
+    {
+      "source": "busco",
+      "target": "información",
+      "value": 50.0
+    },
+    {
+      "source": "busco",
+      "target": "bien",
+      "value": 33.0
+    },
+    {
+      "source": "busco",
+      "target": "buenas",
+      "value": 39.0
+    },
+    {
+      "source": "busco",
+      "target": "cerca",
+      "value": 54.0
+    },
+    {
+      "source": "busco",
+      "target": "gracias",
+      "value": 46.0
+    },
+    {
+      "source": "busco",
+      "target": "instalaciones",
+      "value": 18.0
+    },
+    {
+      "source": "busco",
+      "target": "sol",
+      "value": 60.0
+    },
+    {
+      "source": "información",
+      "target": "bien",
+      "value": 15.0
+    },
+    {
+      "source": "información",
+      "target": "buenas",
+      "value": 25.0
+    },
+    {
+      "source": "información",
+      "target": "cerca",
+      "value": 23.0
+    },
+    {
+      "source": "información",
+      "target": "gracias",
+      "value": 103.0
+    },
+    {
+      "source": "información",
+      "target": "instalaciones",
+      "value": 25.0
+    },
+    {
+      "source": "información",
+      "target": "sol",
+      "value": 38.0
+    },
+    {
+      "source": "bien",
+      "target": "buenas",
+      "value": 41.0
+    },
+    {
+      "source": "bien",
+      "target": "cerca",
+      "value": 22.0
+    },
+    {
+      "source": "bien",
+      "target": "gracias",
+      "value": 22.0
+    },
+    {
+      "source": "bien",
+      "target": "instalaciones",
+      "value": 30.0
+    },
+    {
+      "source": "bien",
+      "target": "sol",
+      "value": 14.0
+    },
+    {
+      "source": "buenas",
+      "target": "cerca",
+      "value": 32.0
+    },
+    {
+      "source": "buenas",
+      "target": "gracias",
+      "value": 32.0
+    },
+    {
+      "source": "buenas",
+      "target": "instalaciones",
+      "value": 43.0
+    },
+    {
+      "source": "buenas",
+      "target": "sol",
+      "value": 36.0
+    },
+    {
+      "source": "cerca",
+      "target": "gracias",
+      "value": 32.0
+    },
+    {
+      "source": "cerca",
+      "target": "instalaciones",
+      "value": 21.0
+    },
+    {
+      "source": "cerca",
+      "target": "sol",
+      "value": 44.0
+    },
+    {
+      "source": "gracias",
+      "target": "instalaciones",
+      "value": 22.0
+    },
+    {
+      "source": "gracias",
+      "target": "sol",
+      "value": 26.0
+    },
+    {
+      "source": "instalaciones",
+      "target": "sol",
+      "value": 14.0
+    }
+  ]
+}

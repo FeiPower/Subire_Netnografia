@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "colegios",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Nombre": "Colegio Subiré - Campus Zapopan" }, "geometry": { "type": "Point", "coordinates": [ -103.46398651148705, 20.722715093484929 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Nombre": "Instituto de Ciencias" }, "geometry": { "type": "Point", "coordinates": [ -103.473494443901401, 20.724738646935485 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Nombre": "Instituto Thomas Jefferson - Campus Valle Real" }, "geometry": { "type": "Point", "coordinates": [ -103.425792273801264, 20.736271477860122 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Nombre": "The American School Foundation of Guadalajara" }, "geometry": { "type": "Point", "coordinates": [ -103.375838033485152, 20.696261225024987 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Nombre": "Prepa Tec - Campus Santa Margarita" }, "geometry": { "type": "Point", "coordinates": [ -103.452871689985159, 20.733921428597732 ] } },
+{ "type": "Feature", "properties": { "id": 9, "Nombre": "Colegio Finlandés - Campus Zapopan" }, "geometry": { "type": "Point", "coordinates": [ -103.461530530058198, 20.719367850669883 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Nombre": "Summit School" }, "geometry": { "type": "Point", "coordinates": [ -103.463223130111203, 20.715338677695158 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Nombre": "Colegio Franco Mexicano" }, "geometry": { "type": "Point", "coordinates": [ -103.470151796191772, 20.700846034893878 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Nombre": "Colegio Signos" }, "geometry": { "type": "Point", "coordinates": [ -103.473666654560162, 20.690798443306587 ] } },
+{ "type": "Feature", "properties": { "id": 10, "Nombre": "Colegio Once México" }, "geometry": { "type": "Point", "coordinates": [ -103.462960966560743, 20.697761073220168 ] } },
+{ "type": "Feature", "properties": { "id": 11, "Nombre": "Colegio Alemán de Guadalajara" }, "geometry": { "type": "Point", "coordinates": [ -103.379291724836378, 20.772560079098856 ] } },
+{ "type": "Feature", "properties": { "id": 12, "Nombre": "Instituto Tepeyac - Campus Guadalajara" }, "geometry": { "type": "Point", "coordinates": [ -103.448887629460671, 20.707486191007938 ] } }
+]
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "likes": 4656,
+        "title": "Summit School | Zapopan",
+        "pageName": "summitschoolmx",
+        "intro": "Summit School ofrece calidad y experiencia educacional bilingüe desde Pre - Kinder hasta Secundaria.",
+        "ratingOverall": 92.0,
+        "ratingCount": 58.0
+    },
+    {
+        "likes": 18186,
+        "title": "SuBiré | Zapopan",
+        "pageName": "SubireBusinessSchool",
+        "intro": "Preescolar, Primaria, Secundaria y Preparatoria.\nFormamos emprendedores.",
+        "ratingOverall": 88.0,
+        "ratingCount": 298.0
+    },
+    {
+        "likes": 12297,
+        "title": "Colegio Once México | Zapopan",
+        "pageName": "colegiooncemexico",
+        "intro": "Colegio Once México \nConstruyendo Historias de Éxito.\n*Formación a través del deporte",
+        "ratingOverall": 82.0,
+        "ratingCount": 210.0
+    },
+    {
+        "likes": 10153,
+        "title": "PrepaTec Guadalajara | Zapopan",
+        "pageName": "prepatecgdl",
+        "intro": "Estudia tu Preparatoria en la modalidad Bicultural o Multicultural y vive experiencias internacionales.",
+        "ratingOverall": 94.0,
+        "ratingCount": 48.0
+    },
+    {
+        "likes": 1314,
+        "title": "Instituto de Ciencias A.C. | Zapopan",
+        "pageName": "people",
+        "intro": "Página Oficial del Colegio Jesuita de Guadalajara.",
+        "ratingOverall": null,
+        "ratingCount": 0.0
+    },
+    {
+        "likes": 4440,
+        "title": "Instituto Thomas Jefferson Campus Valle Real | Zapopan",
+        "pageName": "ITJGdlValleReal",
+        "intro": "Nuestra misión es desarrollar líderes que consigan su felicidad y éxito y lo promuevan en su entorno.",
+        "ratingOverall": null,
+        "ratingCount": null
+    },
+    {
+        "likes": 4772,
+        "title": "Colegio Alemán de Guadalajara | Zapopan",
+        "pageName": "colegioalemanguadalajara",
+        "intro": "El Colegio Alemán de Guadalajara es una institución que ofrece educación integral, bicultural y trilingüe certificada internacionalmente.",
+        "ratingOverall": 90.0,
+        "ratingCount": 39.0
+    },
+    {
+        "likes": 7468,
+        "title": "Colegio Finlandés",
+        "pageName": "colegiofinlandes",
+        "intro": "Enseñamos a aprender... aprendemos a crear.",
+        "ratingOverall": null,
+        "ratingCount": null
+    },
+    {
+        "likes": 1767,
+        "title": "Colegio Tepeyac de Guadalajara | Guadalajara",
+        "pageName": "ColegioTepeyacGuadalajara",
+        "intro": "En el Colegio Tepeyac educamos para formar líderes católicos capaces de incidir en la transformaci",
+        "ratingOverall": 92.0,
+        "ratingCount": 9.0
+    }
+]
