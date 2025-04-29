@@ -8,7 +8,6 @@ import {multitimeline} from "./components/multitimeline.js";
 import {groupstimeline} from "./components/groupstimeline.js";
 import {wordNetworkPlot} from "./components/wordNetworkPlot.js";
 // import {createVolumeChart} from "./components/volumeChart.js";
-const historyData = FileAttachment("./data/history_data.json").json();
 const facebookData = FileAttachment("./data/facebook_groups_resonance.json").json();
 
 ```
