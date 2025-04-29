@@ -1,4 +1,5 @@
 import * as L from "npm:leaflet";
+import colegiosData from '../data/colegios.geojson';
 
 /**
  * Initializes a Leaflet map and adds a marker with a popup.
@@ -31,4 +32,53 @@ export async function initializeMap({ containerId, latitude = 51.505, longitude 
       layer.bindPopup(popupContent);
     }
   }).addTo(map);
+}
+
+export function createColegiosMap(container) {
+  // Create map instance
+  const map = L.map(container, {
+    fullscreenControl: true,
+    zoomControl: false
+  });
+
+  // Add OpenStreetMap tiles
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+  }).addTo(map);
+
+  // Add zoom control to top-right
+  L.control.zoom({ position: 'topright' }).addTo(map);
+
+  // Add scale control
+  L.control.scale().addTo(map);
+
+  // Style for school markers
+  const schoolStyle = {
+    radius: 8,
+    fillColor: "#ff7800",
+    color: "#000",
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8
+  };
+
+  // Add GeoJSON layer
+  const colegiosLayer = L.geoJSON(colegiosData, {
+    pointToLayer: (feature, latlng) => {
+      return L.circleMarker(latlng, schoolStyle);
+    },
+    onEachFeature: (feature, layer) => {
+      if (feature.properties && feature.properties.Nombre) {
+        layer.bindPopup(`<b>${feature.properties.Nombre}</b>`);
+      }
+    }
+  }).addTo(map);
+
+  // Fit map to schools bounds
+  map.fitBounds(colegiosLayer.getBounds(), {
+    padding: [50, 50],
+    maxZoom: 14
+  });
+
+  return map;
 }

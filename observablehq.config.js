@@ -10,48 +10,77 @@ export default {
     {
       name: "Introducción",
       pages: [
-        {name: "Subiré Business School", path: "/intro"},
-        {name: "¿Qué es una netnografía?", path: "/que_es_netnografia"}
+        { name: "Objetivo y Alcance del Proyecto", path: "./01_introduction/intro" },
+        { name: "Importancia de la Percepción Digital", path: "./01_introduction/importancia_percepcion_digital" },
+        { name: "¿Qué es una Netnografía?", path: "./01_introduction/que_es_netnografia" }
       ]
     },
     {
-      name: "Contexto",
+      name: "Metodología",
       pages: [
-        {name: "Report", path: "/example-report"}
+        { name: "Enfoque del Análisis", path: "./02_metodologia/enfoque_analisis" },
+        { name: "Fases del Estudio", path: "./02_metodologia/fases_estudio" },
+        { name: "Benchmark Competitivo", path: "./02_metodologia/benchmark_competitivo_metodologia" },
+        { name: "Ciencia de Redes y Mapas de Audiencia", path: "./02_metodologia/ciencia_redes_metodologia" }
       ]
     },
     {
-      name: "Metodologías",
+      name: "Análisis del Ecosistema Digital",
       pages: [
-        {name: "Benchmark competitivo", path: "/benchmark_competitivo_metodologia"}
+        { name: "Resonancia Digital General", path: "./03_analisis_ecosistema_digital/resonancia_digital" },
+        { name: "Análisis de Canales y Plataformas", path: "./03_analisis_ecosistema_digital/canales_plataformas" },
+        // { name: "Patrones de Interacción de Audiencias", path: "./03_analisis_ecosistema_digital/patrones_interaccion" }
+        { name: "Caracterización de reseñas de Google Maps", path: "./03_analisis_ecosistema_digital/subire_gmreviews" }
       ]
     },
     {
-      name: "Resultados",
+      name: "Percepción de Marca",
       pages: [
-        {name: "Resonancia digital", path: "/example-report"},
-        {name: "Web: Benchmark competitivo", path: "/benchmark_competitivo"}
+        { name: "Facebook Pages: Narrativas Clave y Valores Asociados", path: "./04_percepcion_marca/narrativas_valores" },
+        // { name: "Gap Analysis de Subiré", path: "./04_percepcion_marca/gap_analysis_subire" }
+      ]
+    },
+    // {
+    //   name: "Comparativa Competitiva",
+    //   pages: [
+    //     { name: "Benchmark de Métricas Clave", path: "./05_comparativa_competitiva/benchmark_metrico" },
+    //     { name: "Análisis de Estilos Comunicativos", path: "./05_comparativa_competitiva/estilos_comunicacion" },
+    //     { name: "Fortalezas y Oportunidades Competitivas", path: "./05_comparativa_competitiva/fortalezas_oportunidades" }
+    //   ]
+    // },
+    {
+      name: "Detección de Oportunidades y Amenazas",
+      pages: [
+        { name: "Oportunidades Estratégicas", path: "./06_oportunidades_y_amenazas/oportunidades_estrategicas" },
+        { name: "Amenazas Emergentes", path: "./06_oportunidades_y_amenazas/amenazas_educativas" }
+      ]
+    },
+    {
+      name: "Recomendaciones Estratégicas",
+      pages: [
+        { name: "Contenido y Narrativas Prioritarias", path: "./07_recomendaciones_estrategicas/contenido_narrativas" },
+        // { name: "Colaboraciones Estratégicas y Activaciones", path: "./07_recomendaciones_estrategias/colaboraciones_activaciones" }
       ]
     }
   ],
 
   // Content to add to the head of the page, e.g. for a favicon:
-  head: '<link rel="icon" href="observable.png" type="image/png" sizes="32x32">',
+  head: '<link rel="icon" href="./static/subire.png" type="image/png" sizes="32x32">',
 
   // The path to the source root.
   root: "src",
 
   // Some additional configuration options and their defaults:
-  theme: "light", // try "light", "dark", "slate", etc.
+  theme: ["glacier", "wide"], // try "light", "dark", "slate", etc.
   // header: "", // what to show in the header (HTML)
   footer: "Construído por STRTGY AI.", // what to show in the footer (HTML)
   sidebar: true, // whether to show the sidebar
-  // toc: true, // whether to show the table of contents
+  toc: false, // whether to show the table of contents
   pager: false, // whether to show previous & next links in the footer
   // output: "dist", // path to the output root for build
   // search: true, // activate search
   // linkify: true, // convert URLs in Markdown to links
-  // typographer: false, // smart quotes and other typographic improvements
+  typographer: true, // smart quotes and other typographic improvements
   // preserveExtension: false, // drop .html from URLs
   // preserveIndex: false, // drop /index from URLs
 };
