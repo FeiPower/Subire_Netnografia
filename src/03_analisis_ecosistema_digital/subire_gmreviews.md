@@ -178,30 +178,30 @@ title: Análisis General de Opiniones sobre Escuelas Privadas en ZMG
 <div class="grid grid-cols-1" style="gap:2rem; margin-bottom:2rem;">
 
   <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#059669; margin-bottom:0.5rem;">Ambiente Emocional y Bullying</h3>
+    <h3 style="font-size:1.5rem; color:#059669; margin-bottom:0.5rem;">Ambiente Emocional y Prevención del Bullying: Retos y Oportunidades para Subiré</h3>
     <p style="font-size:1rem;">
-      Si el ambiente emocional y la prevención del bullying son prioridad, colegios como el Finlandés (por su programa KIVA) y Prepa TEC (por su comunidad cercana) podrían ser mejores opciones.
+      El análisis de reseñas y percepciones digitales evidencia que el ambiente emocional y la gestión del bullying son factores críticos en la decisión de las familias. Subiré enfrenta el reto de fortalecer su reputación en este aspecto, aprendiendo de buenas prácticas como el programa KIVA del Colegio Finlandés y la cultura de comunidad cercana de Prepa TEC. Se recomienda implementar protocolos claros de prevención, atención y comunicación sobre casos de acoso escolar, así como campañas proactivas que visibilicen los esfuerzos institucionales para garantizar un entorno seguro y saludable.
     </p>
   </div>
 
   <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">Nivel Académico</h3>
+    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">Nivel Académico: Posicionamiento y Diferenciación</h3>
     <p style="font-size:1rem;">
-      Para un alto nivel académico y exigencia universitaria, Colegio Alemán, Prepa TEC y Colegio Franco Mexicano destacan (con las precauciones mencionadas sobre ambiente social).
+      La percepción de alto nivel académico es un atributo clave para la competitividad de Subiré frente a instituciones como Colegio Alemán, Prepa TEC y Colegio Franco Mexicano. Es fundamental comunicar de manera estratégica los logros académicos, resultados en exámenes y competencias, así como la preparación de los estudiantes para la universidad y el entorno global. Se sugiere reforzar la narrativa de excelencia educativa y mostrar testimonios de egresados y padres satisfechos.
     </p>
   </div>
 
   <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">Educación Integral</h3>
+    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">Educación Integral: Valor Diferencial de Subiré</h3>
     <p style="font-size:1rem;">
-      Para una educación integral y balanceada, Instituto de Ciencias y Thomas Jefferson son recomendables, siempre y cuando los problemas administrativos y logísticos se manejen adecuadamente.
+      Subiré puede capitalizar su propuesta de formación integral, destacando la combinación de excelencia académica, desarrollo socioemocional, actividades deportivas y culturales. Es importante visibilizar historias de éxito, proyectos colaborativos y experiencias que trascienden lo académico, diferenciándose así de competidores como Instituto de Ciencias y Thomas Jefferson. La gestión eficiente de aspectos administrativos y logísticos también debe ser comunicada como parte de la experiencia positiva Subiré.
     </p>
   </div>
 
   <div class="card" style="background: #FACC15; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">Precauciones</h3>
+    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">Gestión de Riesgos y Reputación Digital</h3>
     <p style="font-size:1rem;">
-      Se recomienda mucha precaución con instituciones que tienen denuncias graves y repetidas de maltrato o bullying, como Subiré y Summit School, ya que esto podría afectar significativamente la salud emocional y académica de los estudiantes.
+      Dada la sensibilidad de las denuncias sobre maltrato y bullying en el sector educativo, es prioritario para Subiré implementar una estrategia de gestión de riesgos reputacionales. Esto incluye monitoreo activo de reseñas, respuestas empáticas y transparentes, y acciones correctivas visibles. La comunicación proactiva sobre mejoras y resultados en bienestar estudiantil contribuirá a recuperar y fortalecer la confianza de la comunidad escolar y de las familias potenciales.
     </p>
   </div>
 
