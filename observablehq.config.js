@@ -40,14 +40,14 @@ export default {
         // { name: "Gap Analysis de Subiré", path: "./04_percepcion_marca/gap_analysis_subire" }
       ]
     },
-    // {
-    //   name: "Comparativa Competitiva",
-    //   pages: [
-    //     { name: "Benchmark de Métricas Clave", path: "./05_comparativa_competitiva/benchmark_metrico" },
-    //     { name: "Análisis de Estilos Comunicativos", path: "./05_comparativa_competitiva/estilos_comunicacion" },
-    //     { name: "Fortalezas y Oportunidades Competitivas", path: "./05_comparativa_competitiva/fortalezas_oportunidades" }
-    //   ]
-    // },
+    {
+      name: "Comparativa Competitiva",
+      pages: [
+        { name: "Benchmark competitivo de oferta de valor (Web)", path: "./05_comparativa_competitiva/benchmark_competitivo_web" },
+        { name: "Análisis de Estilos Comunicativos", path: "./05_comparativa_competitiva/estilos_comunicacion" },
+        { name: "Fortalezas y Oportunidades Competitivas", path: "./05_comparativa_competitiva/fortalezas_oportunidades" }
+      ]
+    },
     {
       name: "Detección de Oportunidades y Amenazas",
       pages: [
