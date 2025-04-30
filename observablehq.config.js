@@ -35,7 +35,8 @@ export default {
         { name: "Facebook Pages: Narrativas Clave y Valores Asociados", path: "./04_percepcion_marca/narrativas_valores" },
         { name: "Estilos de Comunicación", path: "./05_comparativa_competitiva/estilos_comunicacion" },
         { name: "Canales y Plataformas", path: "./03_analisis_ecosistema_digital/canales_plataformas" },
-        { name: "Gap Analysis de Subiré", path: "./04_percepcion_marca/gap_analysis_subire" }
+        { name: "Gap Analysis de Subiré", path: "./04_percepcion_marca/gap_analysis_subire" },
+        { name: "EVA | Análisis de eco digital", path: "./03_analisis_ecosistema_digital/viz_analysis" }
 
 
       ]
