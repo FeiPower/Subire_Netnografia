@@ -5,8 +5,6 @@ toc: true
 
 # Análisis de Brechas: Identidad Proyectada vs. Percepción Real
 
-![Mapa mental del análisis de brechas](../static/percepcion_vs_real.png)
-
 El presente análisis explora las principales brechas entre la identidad institucional que Subiré Business School comunica de manera oficial y la percepción real que manifiestan familias, estudiantes y la comunidad digital en distintos canales. A partir de la comparación entre la narrativa proyectada y los comentarios, reseñas y discusiones en redes sociales y foros, se identifican fortalezas, áreas de oportunidad y recomendaciones para alinear la reputación digital con los valores y diferenciadores estratégicos de la institución.
 
 

@@ -106,7 +106,7 @@ Respaldar la calidad educativa y la preparación de los estudiantes para los sig
 
 ---
 
-# Recomendaciones Profesionales para la Gestión de Contenido Digital
+# Recomendaciones para la Gestión de Contenido Digital
 
 - **Consistencia de Marca:** Mantener una voz, estilo visual y mensaje alineados en todos los canales digitales, reforzando la identidad de Subiré.
 - **Calidad y Relevancia:** Producir contenido profesional, relevante y adaptado a los intereses de cada audiencia objetivo.

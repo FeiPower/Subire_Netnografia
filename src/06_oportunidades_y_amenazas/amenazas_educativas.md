@@ -60,7 +60,7 @@ title: Amenazas Emergentes y Gestión de Crisis para Marketing y Relaciones Púb
 
   <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
 
-## 6. Auditoría y Monitoreo de Percepción
+## Auditoría y Monitoreo de Percepción
 - Realizar auditorías periódicas para comparar el discurso oficial con la percepción en redes y foros, identificando brechas y oportunidades de mejora.
 - Implementar herramientas avanzadas de social listening y análisis de sentimiento para detectar menciones negativas, tendencias emergentes y posibles focos de crisis.
 - Ajustar la comunicación institucional para ser más auténtica, transparente y alineada con la experiencia real de la comunidad, mostrando casos de éxito y testimonios genuinos.
@@ -69,7 +69,7 @@ title: Amenazas Emergentes y Gestión de Crisis para Marketing y Relaciones Púb
 
   <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
 
-## 7. Gestión Proactiva de Narrativas
+## Gestión Proactiva de Narrativas
 - Desarrollar contenido que aborde indirectamente preocupaciones detectadas (ej. becas, programas anti-bullying, testimonios de alumnos y padres), mostrando acciones concretas y resultados.
 - Establecer protocolos claros y públicos de respuesta ante críticas en plataformas públicas y privadas, asegurando tiempos de respuesta rápidos y tono empático.
 - Capacitar al equipo de Marketing y RRPP en manejo de crisis digitales, comunicación empática y gestión de comentarios sensibles, realizando simulacros periódicos.
@@ -78,7 +78,7 @@ title: Amenazas Emergentes y Gestión de Crisis para Marketing y Relaciones Púb
 
   <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
 
-## 8. Benchmarking y Diferenciación
+## Benchmarking y Diferenciación
 - Analizar tácticas exitosas de la competencia para identificar oportunidades de diferenciación y anticipar movimientos del sector.
 - Enfocar la comunicación en los atributos únicos de Subiré (emprendimiento, valores, comunidad), reforzando estos mensajes en todos los canales y materiales institucionales.
 - Reforzar relaciones con medios, líderes de opinión y micro-influencers para asegurar cobertura positiva y contrarrestar narrativas negativas.
@@ -87,7 +87,7 @@ title: Amenazas Emergentes y Gestión de Crisis para Marketing y Relaciones Púb
 
   <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
 
-## 9. Estrategia Omnicanal y Calendario de Contenidos
+## Estrategia Omnicanal y Calendario de Contenidos
 - Planificar campañas de mantenimiento y contenido "puente" durante meses de baja actividad, asegurando presencia continua y relevante.
 - Evaluar y fortalecer la presencia en canales emergentes relevantes para el segmento objetivo (ej. TikTok, foros especializados), adaptando formatos y mensajes.
 - Utilizar periodos de menor ruido competitivo para lanzar iniciativas de liderazgo de opinión, webinars o colaboraciones con expertos.
@@ -96,7 +96,7 @@ title: Amenazas Emergentes y Gestión de Crisis para Marketing y Relaciones Púb
 
   <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
 
-## 10. Manual y Simulacros de Crisis Digital
+## Manual y Simulacros de Crisis Digital
 - Desarrollar y actualizar un manual de gestión de crisis de reputación online, incluyendo protocolos para distintos escenarios y ejemplos de respuestas efectivas.
 - Definir responsables, tiempos de respuesta y protocolos de escalamiento interno, asegurando la coordinación entre áreas clave.
 - Realizar simulacros periódicos para asegurar la preparación del equipo ante escenarios críticos y evaluar la efectividad de los protocolos establecidos.

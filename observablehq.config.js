@@ -54,6 +54,8 @@ export default {
       pages: [
         { name: "Contenido y Narrativas Prioritarias", path: "./07_recomendaciones_estrategicas/contenido_narrativas" },
         // { name: "Colaboraciones Estratégicas y Activaciones", path: "./07_recomendaciones_estrategias/colaboraciones_activaciones" }
+        { name: "Anexos", path: "./07_recomendaciones_estrategicas/anexos" },
+
       ]
     }
   ],
