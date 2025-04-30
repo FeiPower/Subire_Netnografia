@@ -21,36 +21,29 @@ export default {
         { name: "Enfoque del Análisis", path: "./02_metodologia/enfoque_analisis" },
         { name: "Fases del Estudio", path: "./02_metodologia/fases_estudio" },
         { name: "Benchmark Competitivo", path: "./02_metodologia/benchmark_competitivo_metodologia" },
-        { name: "Ciencia de Redes y Mapas de Audiencia", path: "./02_metodologia/ciencia_redes_metodologia" }
+        { name: "Ciencia de Redes y Mapas de Audiencia", path: "./02_metodologia/ciencia_redes_metodologia" },
+        { name: "Gap Analysis", path: "./02_metodologia/brechas_y_recomendaciones" },
+
       ]
     },
     {
-      name: "Análisis del Ecosistema Digital",
+      name: "Análisis",
       pages: [
+        { name: "Benchmark Competitivo de Oferta de Valor (Web)", path: "./05_comparativa_competitiva/benchmark_competitivo_web" },
         { name: "Resonancia Digital General", path: "./03_analisis_ecosistema_digital/resonancia_digital" },
-        { name: "Análisis de Canales y Plataformas", path: "./03_analisis_ecosistema_digital/canales_plataformas" },
-        // { name: "Patrones de Interacción de Audiencias", path: "./03_analisis_ecosistema_digital/patrones_interaccion" }
-        { name: "Caracterización de reseñas de Google Maps", path: "./03_analisis_ecosistema_digital/subire_gmreviews" }
-      ]
-    },
-    {
-      name: "Percepción de Marca",
-      pages: [
+        { name: "Percepción en Google Maps", path: "./03_analisis_ecosistema_digital/subire_gmreviews" },
         { name: "Facebook Pages: Narrativas Clave y Valores Asociados", path: "./04_percepcion_marca/narrativas_valores" },
-        // { name: "Gap Analysis de Subiré", path: "./04_percepcion_marca/gap_analysis_subire" }
+        { name: "Estilos de Comunicación", path: "./05_comparativa_competitiva/estilos_comunicacion" },
+        { name: "Canales y Plataformas", path: "./03_analisis_ecosistema_digital/canales_plataformas" },
+        { name: "Gap Analysis de Subiré", path: "./04_percepcion_marca/gap_analysis_subire" }
+
+
       ]
     },
     {
-      name: "Comparativa Competitiva",
+      name: "Thinking",
       pages: [
-        { name: "Benchmark competitivo de oferta de valor (Web)", path: "./05_comparativa_competitiva/benchmark_competitivo_web" },
-        { name: "Análisis de Estilos Comunicativos", path: "./05_comparativa_competitiva/estilos_comunicacion" },
-        { name: "Fortalezas y Oportunidades Competitivas", path: "./05_comparativa_competitiva/fortalezas_oportunidades" }
-      ]
-    },
-    {
-      name: "Detección de Oportunidades y Amenazas",
-      pages: [
+        { name: "Fortalezas y Oportunidades Competitivas", path: "./05_comparativa_competitiva/fortalezas_oportunidades" },
         { name: "Oportunidades Estratégicas", path: "./06_oportunidades_y_amenazas/oportunidades_estrategicas" },
         { name: "Amenazas Emergentes", path: "./06_oportunidades_y_amenazas/amenazas_educativas" }
       ]
@@ -76,9 +69,9 @@ export default {
   footer: "Construído por STRTGY AI.", // what to show in the footer (HTML)
   sidebar: true, // whether to show the sidebar
   toc: false, // whether to show the table of contents
-  pager: false, // whether to show previous & next links in the footer
+  pager: true, // whether to show previous & next links in the footer
   // output: "dist", // path to the output root for build
-  // search: true, // activate search
+  search: true, // activate search
   // linkify: true, // convert URLs in Markdown to links
   typographer: true, // smart quotes and other typographic improvements
   // preserveExtension: false, // drop .html from URLs

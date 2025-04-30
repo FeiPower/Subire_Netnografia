@@ -1,208 +1,199 @@
 ---
 title: Análisis General de Opiniones sobre Escuelas Privadas en ZMG
+theme: ["glacier", wide]
+toc: true
 ---
 
-<h1 style="font-size:2.5rem; color:#1E3A8A; margin-top:2rem; margin-bottom:1.5rem;">Temas Positivos Recurrentes</h1>
+# Análisis General de Opiniones sobre Escuelas Privadas en ZMG
+## Calificación histórica en Google Maps del ecosistema competitivo de Subiré
 
-<div class="grid grid-cols-2" style="gap:2rem; margin-bottom:2rem;">
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#059669; margin-bottom:1rem;">Instalaciones de Calidad</h3>
-    <ul style="font-size:1rem;">
-      <li>Los usuarios destacan las instalaciones deportivas y recreativas de varios colegios.</li>
-      <li>Instituto Thomas Jefferson, IT Campus Guadalajara, Colegio Alemán y Subiré son elogiados por sus amplios espacios y modernas instalaciones.</li>
-      <li>Comentarios de 5 estrellas resaltan que las instalaciones de Subiré son impresionantes, con canchas deportivas bien mantenidas y un teatro grande y cómodo.</li>
-    </ul>
-  </div>
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#059669; margin-bottom:1rem;">Nivel Académico</h3>
-    <ul style="font-size:1rem;">
-      <li>Se valora el equilibrio entre educación bilingüe/trilingüe, nivel académico exigente y actividades extracurriculares.</li>
-      <li>Instituto de Ciencias, IT Campus Guadalajara y Colegio Franco Mexicano reciben menciones positivas en este aspecto.</li>
-      <li>Reseñas de 5 estrellas del Instituto de Ciencias destacan su calidad educativa superior y su programa en inglés y francés.</li>
-      <li>Colegio Alemán es reconocido por su estricto pero excelente nivel académico.</li>
-    </ul>
-  </div>
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#059669; margin-bottom:1rem;">Programas Específicos</h3>
-    <ul style="font-size:1rem;">
-      <li>El enfoque finlandés y el método antibullying KIVA en el Colegio Finlandés son altamente valorados.</li>
-      <li>Los programas de emprendimiento en Subiré reciben comentarios positivos de los padres.</li>
-      <li>Reseñas de 5 estrellas de Subiré mencionan que es un proyecto hecho para emprendedores de verdad, con balance entre valores, religión, deportes y competencia académica.</li>
-    </ul>
-  </div>
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#059669; margin-bottom:1rem;">Ambiente Escolar Positivo</h3>
-    <ul style="font-size:1rem;">
-      <li>Prepa Tec Santa Anita, Colegio Alemán, Instituto de Ciencias y American School se destacan por su buen ambiente social y académico.</li>
-      <li>Reseñas de 5 estrellas de Prepa Tec resaltan su excelente ambiente y sentido de comunidad.</li>
-      <li>El Instituto de Ciencias es descrito como un lugar donde los estudiantes encuentran todo lo que buscan en su desarrollo personal y académico.</li>
-    </ul>
-  </div>
-</div>
+```js
+const googleReviewsFile = FileAttachment("../data/historic_stars_reviews_gm_yearly_running_mean.csv").csv()
+```
 
-<h1 style="font-size:2.5rem; color:#1E3A8A; margin-top:2rem; margin-bottom:1.5rem;">Temas Negativos Recurrentes</h1>
+```js
+import * as Plot from "npm:@observablehq/plot";
+```
+<div class="card">
 
-<div class="grid grid-cols-2" style="gap:2rem; margin-bottom:2rem;">
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:1rem;">Bullying y Maltrato</h3>
-    <ul style="font-size:1rem;">
-      <li>El bullying y el maltrato son problemas significativos en varias escuelas evaluadas.</li>
-      <li>En el caso de Subiré, se reportan críticas severas por permitir el acoso escolar sin un protocolo claro de atención.</li>
-      <li>Directivos, incluyendo al rector Julio Saucedo, han sido señalados por no atender conflictos graves.</li>
-      <li>Se destaca la falta de un protocolo documentado y la atención deficiente por parte del personal, desde atención a padres hasta la dirección.</li>
-      <li>Se percibe que la escuela prioriza intereses económicos sobre el bienestar estudiantil.</li>
-    </ul>
-  </div>
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:1rem;">Problemas Administrativos y Atención al Cliente</h3>
-    <ul style="font-size:1rem;">
-      <li>Instituciones como Subiré, Instituto de Ciencias, Finlandés, Thomas Jefferson y IT Campus Guadalajara reciben quejas por mala comunicación y falta de atención a problemas específicos.</li>
-      <li>En Subiré, se critica la indiferencia del personal hacia alumnos y padres, reforzando la percepción de priorizar intereses económicos.</li>
-    </ul>
-  </div>
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:1rem;">Problemas de Vialidad y Logística</h3>
-    <ul style="font-size:1rem;">
-      <li>Escuelas grandes como Instituto de Ciencias, Prepa Tec, Thomas Jefferson y American School enfrentan problemas de tráfico y acceso vehicular.</li>
-      <li>Estos problemas logísticos generan descontento en padres y vecinos, afectando la experiencia diaria de la comunidad.</li>
-    </ul>
-  </div>
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:1rem;">Relación Precio-Calidad</h3>
-    <ul style="font-size:1rem;">
-      <li>Quejas frecuentes sobre colegiaturas altas sin reflejo en calidad educativa o infraestructura.</li>
-      <li>Subiré, Franco Mexicano y Finlandés destacan en críticas por este tema.</li>
-      <li>En Subiré, se menciona que las aulas están mal equipadas, las pantallas no se ven claramente y no hay aire acondicionado, afectando el ambiente de aprendizaje.</li>
-    </ul>
-  </div>
-</div>
+```js
+const schoolNames = Array.from(new Set(googleReviewsFile.map(d => d.title)));
+```
 
-<h1 style="font-size:2.5rem; color:#1E3A8A; margin-top:2rem; margin-bottom:1.5rem;">Evaluación Individual de Colegios Principales</h1>
+```js
+const selectedSchools = view(Inputs.select(schoolNames, {multiple: true, label: "Colegios a mostrar", value: schoolNames}));
+```
 
-<div class="grid grid-cols-1" style="gap:2rem; margin-bottom:2rem;">
+```js
+const filteredData = googleReviewsFile.filter(d => selectedSchools.includes(d.title))
+```
 
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">1. Colegio Subiré</h3>
-    <ul style="font-size:1rem;">
-      <li><b>Puntos fuertes:</b> Instalaciones atractivas, programa de emprendimiento.</li>
-      <li><b>Puntos débiles:</b> Acoso escolar muy mencionado, deficiencias en protocolo de atención, trato impersonal, instalaciones mal equipadas (falta de aire acondicionado).</li>
-      <li><b>Conclusión:</b> No recomendado si se busca atención personalizada y seguridad emocional.</li>
-    </ul>
-  </div>
-
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">2. Instituto de Ciencias</h3>
-    <ul style="font-size:1rem;">
-      <li><b>Puntos fuertes:</b> Prestigio, fuerte formación en valores y diversidad educativa.</li>
-      <li><b>Puntos débiles:</b> Tráfico caótico, bullying no siempre atendido adecuadamente, infraestructura organizacional deficiente.</li>
-      <li><b>Conclusión:</b> Buena educación integral pero con desafíos logísticos importantes.</li>
-    </ul>
-  </div>
-
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">3. Colegio Alemán de Guadalajara</h3>
-    <ul style="font-size:1rem;">
-      <li><b>Puntos fuertes:</b> Alto nivel académico, reconocimiento internacional, excelente preparación universitaria.</li>
-      <li><b>Puntos débiles:</b> Percepción de elitismo y estricta disciplina que no se adapta a todos los alumnos.</li>
-      <li><b>Conclusión:</b> Excelente opción académica, adecuada para quienes toleran alta exigencia.</li>
-    </ul>
-  </div>
-
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">4. Prepa TEC</h3>
-    <ul style="font-size:1rem;">
-      <li><b>Puntos fuertes:</b> Muy buen nivel académico, preparación intensa para universidad, buenos profesores.</li>
-      <li><b>Puntos débiles:</b> Exceso de carga académica, tráfico complicado, alta presión que afecta bienestar emocional.</li>
-      <li><b>Conclusión:</b> Ideal para estudiantes disciplinados que buscan alto rendimiento.</li>
-    </ul>
-  </div>
-
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">5. The American School Foundation of Guadalajara</h3>
-    <ul style="font-size:1rem;">
-      <li><b>Puntos fuertes:</b> Instalaciones seguras, buena comunidad estudiantil, fuerte orientación académica.</li>
-      <li><b>Puntos débiles:</b> Ubicación conflictiva, percepción de ambiente impersonal en algunos casos.</li>
-      <li><b>Conclusión:</b> Recomendable especialmente para quienes buscan educación bilingüe con enfoque internacional.</li>
-    </ul>
-  </div>
-
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">6. Summit School</h3>
-    <ul style="font-size:1rem;">
-      <li><b>Puntos fuertes:</b> Ambiente familiar y agradable, atención personalizada, contacto con naturaleza.</li>
-      <li><b>Puntos débiles:</b> Denuncias graves sobre maltrato físico y psicológico en niveles preescolares.</li>
-      <li><b>Conclusión:</b> Considerar con cautela debido a la seriedad de algunas denuncias recientes.</li>
-    </ul>
-  </div>
-
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">7. Instituto Thomas Jefferson</h3>
-    <ul style="font-size:1rem;">
-      <li><b>Puntos fuertes:</b> Buen nivel académico y énfasis en idiomas, buenas instalaciones deportivas.</li>
-      <li><b>Puntos débiles:</b> Problemas administrativos, tráfico vehicular complicado, denuncias laborales internas.</li>
-      <li><b>Conclusión:</b> Buena opción educativa, pero requiere atención administrativa.</li>
-    </ul>
-  </div>
-
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">8. Colegio Finlandés</h3>
-    <ul style="font-size:1rem;">
-      <li><b>Puntos fuertes:</b> Programa innovador, énfasis en prevención de bullying (KIVA), buena comunicación con padres.</li>
-      <li><b>Puntos débiles:</b> Problemas serios de discriminación en admisiones, críticas por bajo nivel académico en algunos niveles.</li>
-      <li><b>Conclusión:</b> Potencialmente bueno, recomendable para quien valore enfoque antibullying.</li>
-    </ul>
-  </div>
-
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">9. Colegio Franco Mexicano</h3>
-    <ul style="font-size:1rem;">
-      <li><b>Puntos fuertes:</b> Instalaciones de calidad, bilingüismo (francés-español).</li>
-      <li><b>Puntos débiles:</b> Serios problemas de discriminación racial y clasista, bullying persistente.</li>
-      <li><b>Conclusión:</b> Riesgoso desde el punto de vista emocional para ciertos perfiles de alumnos.</li>
-    </ul>
-  </div>
-
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">10. IT Campus Guadalajara</h3>
-    <ul style="font-size:1rem;">
-      <li><b>Puntos fuertes:</b> Excelente infraestructura, deportes y énfasis en tecnología, nivel académico sólido.</li>
-      <li><b>Puntos débiles:</b> Administración deficiente, escasa atención psicológica efectiva, trato elitista reportado.</li>
-      <li><b>Conclusión:</b> Buena opción académica si se solucionan problemas administrativos y actitudinales.</li>
-    </ul>
-  </div>
+```js
+Plot.plot({
+  marks: [
+    Plot.lineY(filteredData, {
+      x: "publishedAtDate",
+      y: "stars_running_mean",
+      stroke: "title",
+      tip: true
+    }),
+    Plot.crosshair(filteredData, {x: "publishedAtDate", y: "stars_running_mean"})
+  ],
+  y: {
+    grid: true,
+    domain: [0, 5],
+    ticks: [0, 1, 2, 3, 4, 5]
+  },
+  x: {
+    tickFormat: d => {
+      const [year] = d.split('-');
+      return year;
+    }
+  },
+  color: {
+    legend: true,
+    label: "Escuela"
+  }
+})
+```
 
 </div>
 
-<h1 style="font-size:2.5rem; color:#1E3A8A; margin-top:2rem; margin-bottom:1.5rem;">Recomendaciones Finales</h1>
+# Temas Positivos Recurrentes
 
-<div class="grid grid-cols-1" style="gap:2rem; margin-bottom:2rem;">
+**Instalaciones de Calidad**
 
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#059669; margin-bottom:0.5rem;">Ambiente Emocional y Prevención del Bullying: Retos y Oportunidades para Subiré</h3>
-    <p style="font-size:1rem;">
-      El análisis de reseñas y percepciones digitales evidencia que el ambiente emocional y la gestión del bullying son factores críticos en la decisión de las familias. Subiré enfrenta el reto de fortalecer su reputación en este aspecto, aprendiendo de buenas prácticas como el programa KIVA del Colegio Finlandés y la cultura de comunidad cercana de Prepa TEC. Se recomienda implementar protocolos claros de prevención, atención y comunicación sobre casos de acoso escolar, así como campañas proactivas que visibilicen los esfuerzos institucionales para garantizar un entorno seguro y saludable.
-    </p>
-  </div>
+- Los usuarios destacan las instalaciones deportivas y recreativas de varios colegios.
+- Instituto Thomas Jefferson, IT Campus Guadalajara, Colegio Alemán y Subiré son elogiados por sus amplios espacios y modernas instalaciones.
+- Comentarios de 5 estrellas resaltan que las instalaciones de Subiré son impresionantes, con canchas deportivas bien mantenidas y un teatro grande y cómodo.
 
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">Nivel Académico: Posicionamiento y Diferenciación</h3>
-    <p style="font-size:1rem;">
-      La percepción de alto nivel académico es un atributo clave para la competitividad de Subiré frente a instituciones como Colegio Alemán, Prepa TEC y Colegio Franco Mexicano. Es fundamental comunicar de manera estratégica los logros académicos, resultados en exámenes y competencias, así como la preparación de los estudiantes para la universidad y el entorno global. Se sugiere reforzar la narrativa de excelencia educativa y mostrar testimonios de egresados y padres satisfechos.
-    </p>
-  </div>
+**Nivel Académico**
 
-  <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">Educación Integral: Valor Diferencial de Subiré</h3>
-    <p style="font-size:1rem;">
-      Subiré puede capitalizar su propuesta de formación integral, destacando la combinación de excelencia académica, desarrollo socioemocional, actividades deportivas y culturales. Es importante visibilizar historias de éxito, proyectos colaborativos y experiencias que trascienden lo académico, diferenciándose así de competidores como Instituto de Ciencias y Thomas Jefferson. La gestión eficiente de aspectos administrativos y logísticos también debe ser comunicada como parte de la experiencia positiva Subiré.
-    </p>
-  </div>
+- Se valora el equilibrio entre educación bilingüe/trilingüe, nivel académico exigente y actividades extracurriculares.
+- Instituto de Ciencias, IT Campus Guadalajara y Colegio Franco Mexicano reciben menciones positivas en este aspecto.
+- Reseñas de 5 estrellas del Instituto de Ciencias destacan su calidad educativa superior y su programa en inglés y francés.
+- Colegio Alemán es reconocido por su estricto pero excelente nivel académico.
 
-  <div class="card" style="background: #FACC15; padding: 1.5rem;">
-    <h3 style="font-size:1.5rem; color:#1E3A8A; margin-bottom:0.5rem;">Gestión de Riesgos y Reputación Digital</h3>
-    <p style="font-size:1rem;">
-      Dada la sensibilidad de las denuncias sobre maltrato y bullying en el sector educativo, es prioritario para Subiré implementar una estrategia de gestión de riesgos reputacionales. Esto incluye monitoreo activo de reseñas, respuestas empáticas y transparentes, y acciones correctivas visibles. La comunicación proactiva sobre mejoras y resultados en bienestar estudiantil contribuirá a recuperar y fortalecer la confianza de la comunidad escolar y de las familias potenciales.
-    </p>
-  </div>
+**Programas Específicos**
 
-</div>
+- El enfoque finlandés y el método antibullying KIVA en el Colegio Finlandés son altamente valorados.
+- Los programas de emprendimiento en Subiré reciben comentarios positivos de los padres.
+- Reseñas de 5 estrellas de Subiré mencionan que es un proyecto hecho para emprendedores de verdad, con balance entre valores, religión, deportes y competencia académica.
+
+**Ambiente Escolar Positivo**
+
+- Prepa Tec Santa Anita, Colegio Alemán, Instituto de Ciencias y American School se destacan por su buen ambiente social y académico.
+- Reseñas de 5 estrellas de Prepa Tec resaltan su excelente ambiente y sentido de comunidad.
+- El Instituto de Ciencias es descrito como un lugar donde los estudiantes encuentran todo lo que buscan en su desarrollo personal y académico.
+
+---
+
+# Temas Negativos Recurrentes
+
+**Bullying y Maltrato**
+
+- El bullying y el maltrato son problemas significativos en varias escuelas evaluadas.
+- En el caso de Subiré, se reportan críticas severas por permitir el acoso escolar sin un protocolo claro de atención.
+- Directivos, incluyendo al rector Julio Saucedo, han sido señalados por no atender conflictos graves.
+- Se destaca la falta de un protocolo documentado y la atención deficiente por parte del personal, desde atención a padres hasta la dirección.
+- Se percibe que la escuela prioriza intereses económicos sobre el bienestar estudiantil.
+
+**Problemas Administrativos y Atención al Cliente**
+
+- Instituciones como Subiré, Instituto de Ciencias, Finlandés, Thomas Jefferson y IT Campus Guadalajara reciben quejas por mala comunicación y falta de atención a problemas específicos.
+- En Subiré, se critica la indiferencia del personal hacia alumnos y padres, reforzando la percepción de priorizar intereses económicos.
+
+**Problemas de Vialidad y Logística**
+
+- Escuelas grandes como Instituto de Ciencias, Prepa Tec, Thomas Jefferson y American School enfrentan problemas de tráfico y acceso vehicular.
+- Estos problemas logísticos generan descontento en padres y vecinos, afectando la experiencia diaria de la comunidad.
+
+**Relación Precio-Calidad**
+
+- Quejas frecuentes sobre colegiaturas altas sin reflejo en calidad educativa o infraestructura.
+- Subiré, Franco Mexicano y Finlandés destacan en críticas por este tema.
+- En Subiré, se menciona que las aulas están mal equipadas, las pantallas no se ven claramente y no hay aire acondicionado, afectando el ambiente de aprendizaje.
+
+---
+
+# Evaluación Individual de Colegios Principales
+
+**1. Colegio Subiré**
+
+- **Puntos fuertes:** Instalaciones atractivas, programa de emprendimiento.
+- **Puntos débiles:** Acoso escolar muy mencionado, deficiencias en protocolo de atención, trato impersonal, instalaciones mal equipadas (falta de aire acondicionado).
+- **Conclusión:** No recomendado si se busca atención personalizada y seguridad emocional.
+
+**2. Instituto de Ciencias**
+
+- **Puntos fuertes:** Prestigio, fuerte formación en valores y diversidad educativa.
+- **Puntos débiles:** Tráfico caótico, bullying no siempre atendido adecuadamente, infraestructura organizacional deficiente.
+- **Conclusión:** Buena educación integral pero con desafíos logísticos importantes.
+
+**3. Colegio Alemán de Guadalajara**
+
+- **Puntos fuertes:** Alto nivel académico, reconocimiento internacional, excelente preparación universitaria.
+- **Puntos débiles:** Percepción de elitismo y estricta disciplina que no se adapta a todos los alumnos.
+- **Conclusión:** Excelente opción académica, adecuada para quienes toleran alta exigencia.
+
+**4. Prepa TEC**
+
+- **Puntos fuertes:** Muy buen nivel académico, preparación intensa para universidad, buenos profesores.
+- **Puntos débiles:** Exceso de carga académica, tráfico complicado, alta presión que afecta bienestar emocional.
+- **Conclusión:** Ideal para estudiantes disciplinados que buscan alto rendimiento.
+
+**5. The American School Foundation of Guadalajara**
+
+- **Puntos fuertes:** Instalaciones seguras, buena comunidad estudiantil, fuerte orientación académica.
+- **Puntos débiles:** Ubicación conflictiva, percepción de ambiente impersonal en algunos casos.
+- **Conclusión:** Recomendable especialmente para quienes buscan educación bilingüe con enfoque internacional.
+
+**6. Summit School**
+
+- **Puntos fuertes:** Ambiente familiar y agradable, atención personalizada, contacto con naturaleza.
+- **Puntos débiles:** Denuncias graves sobre maltrato físico y psicológico en niveles preescolares.
+- **Conclusión:** Considerar con cautela debido a la seriedad de algunas denuncias recientes.
+
+**7. Instituto Thomas Jefferson**
+
+- **Puntos fuertes:** Buen nivel académico y énfasis en idiomas, buenas instalaciones deportivas.
+- **Puntos débiles:** Problemas administrativos, tráfico vehicular complicado, denuncias laborales internas.
+- **Conclusión:** Buena opción educativa, pero requiere atención administrativa.
+
+**8. Colegio Finlandés**
+
+- **Puntos fuertes:** Programa innovador, énfasis en prevención de bullying (KIVA), buena comunicación con padres.
+- **Puntos débiles:** Problemas serios de discriminación en admisiones, críticas por bajo nivel académico en algunos niveles.
+- **Conclusión:** Potencialmente bueno, recomendable para quien valore enfoque antibullying.
+
+**9. Colegio Franco Mexicano**
+
+- **Puntos fuertes:** Instalaciones de calidad, bilingüismo (francés-español).
+- **Puntos débiles:** Serios problemas de discriminación racial y clasista, bullying persistente.
+- **Conclusión:** Riesgoso desde el punto de vista emocional para ciertos perfiles de alumnos.
+
+**10. IT Campus Guadalajara**
+
+- **Puntos fuertes:** Excelente infraestructura, deportes y énfasis en tecnología, nivel académico sólido.
+- **Puntos débiles:** Administración deficiente, escasa atención psicológica efectiva, trato elitista reportado.
+- **Conclusión:** Buena opción académica si se solucionan problemas administrativos y actitudinales.
+
+---
+
+# Recomendaciones Finales
+
+**Ambiente Emocional y Prevención del Bullying: Retos y Oportunidades para Subiré**
+
+El análisis de reseñas y percepciones digitales evidencia que el ambiente emocional y la gestión del bullying son factores críticos en la decisión de las familias. Subiré enfrenta el reto de fortalecer su reputación en este aspecto, aprendiendo de buenas prácticas como el programa KIVA del Colegio Finlandés y la cultura de comunidad cercana de Prepa TEC. Se recomienda implementar protocolos claros de prevención, atención y comunicación sobre casos de acoso escolar, así como campañas proactivas que visibilicen los esfuerzos institucionales para garantizar un entorno seguro y saludable.
+
+**Nivel Académico: Posicionamiento y Diferenciación**
+
+La percepción de alto nivel académico es un atributo clave para la competitividad de Subiré frente a instituciones como Colegio Alemán, Prepa TEC y Colegio Franco Mexicano. Es fundamental comunicar de manera estratégica los logros académicos, resultados en exámenes y competencias, así como la preparación de los estudiantes para la universidad y el entorno global. Se sugiere reforzar la narrativa de excelencia educativa y mostrar testimonios de egresados y padres satisfechos.
+
+**Educación Integral: Valor Diferencial de Subiré**
+
+Subiré puede capitalizar su propuesta de formación integral, destacando la combinación de excelencia académica, desarrollo socioemocional, actividades deportivas y culturales. Es importante visibilizar historias de éxito, proyectos colaborativos y experiencias que trascienden lo académico, diferenciándose así de competidores como Instituto de Ciencias y Thomas Jefferson. La gestión eficiente de aspectos administrativos y logísticos también debe ser comunicada como parte de la experiencia positiva Subiré.
+
+**Gestión de Riesgos y Reputación Digital**
+
+Dada la sensibilidad de las denuncias sobre maltrato y bullying en el sector educativo, es prioritario para Subiré implementar una estrategia de gestión de riesgos reputacionales. Esto incluye monitoreo activo de reseñas, respuestas empáticas y transparentes, y acciones correctivas visibles. La comunicación proactiva sobre mejoras y resultados en bienestar estudiantil contribuirá a recuperar y fortalecer la confianza de la comunidad escolar y de las familias potenciales.

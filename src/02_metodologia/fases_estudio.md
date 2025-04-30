@@ -3,11 +3,9 @@ title: Fases Específicas del Análisis Netnográfico
 toc: true
 ---
 
-<h1 style="font-size: 2.5rem; color: #1E3A8A; margin-bottom: 1.5rem;">🧭 Fases Específicas del Análisis Netnográfico</h1>
+# 🧭 Fases Específicas del Análisis Netnográfico
 
-<blockquote style="font-size: 1rem; font-style: italic; margin-bottom: 2rem;">
-  "Comprender el pulso digital de Subiré y su entorno competitivo requiere una metodología rigurosa, integral y adaptada a la realidad de la conversación digital actual."
-</blockquote>
+> "Comprender el pulso digital de Subiré y su entorno competitivo requiere una metodología rigurosa, integral y adaptada a la realidad de la conversación digital actual."
 
 <div class="grid grid-cols-2 gap-8" style="margin-bottom: 2rem;">
   <div class="card" style="background: #E5E7EB; padding: 1.5rem;">
@@ -26,9 +24,9 @@ toc: true
   </div>
 </div>
 
-<hr style="margin: 2rem 0;">
+---
 
-<h2 style="font-size: 2rem; color: #1E3A8A; margin-bottom: 1.5rem;">Ⅰ. Mapeo del Ecosistema Digital</h2>
+## Ⅰ. Mapeo del Ecosistema Digital
 
 <div class="card" style="background: #E5E7EB; padding: 1.5rem; margin-bottom: 2rem;">
   <h4 style="font-size: 1.25rem; color: #06B6D4;">Identificación de Plataformas y Espacios Clave</h4>
@@ -58,9 +56,9 @@ toc: true
   </ul>
 </div>
 
-<hr style="margin: 2rem 0;">
+---
 
-<h2 style="font-size: 2rem; color: #1E3A8A; margin-bottom: 1.5rem;">Ⅱ. Recolección y Análisis de Datos</h2>
+## Ⅱ. Recolección y Análisis de Datos
 
 <div class="card" style="background: #E5E7EB; padding: 1.5rem; margin-bottom: 2rem;">
   <h4 style="font-size: 1.25rem; color: #06B6D4;">Metodología de Recolección y Variables Analizadas</h4>
@@ -97,9 +95,9 @@ toc: true
   </ul>
 </div>
 
-<hr style="margin: 2rem 0;">
+---
 
-<h2 style="font-size: 2rem; color: #1E3A8A; margin-bottom: 1.5rem;">Ⅲ. Benchmark Competitivo</h2>
+## Ⅲ. Benchmark Competitivo
 
 <div class="card" style="background: #E5E7EB; padding: 1.5rem; margin-bottom: 2rem;">
   <h4 style="font-size: 1.25rem; color: #06B6D4;">Comparativa Estratégica con Competidores Clave</h4>
@@ -140,9 +138,9 @@ toc: true
   </ul>
 </div>
 
-<hr style="margin: 2rem 0;">
+---
 
-<h2 style="font-size: 2rem; color: #1E3A8A; margin-bottom: 1.5rem;">Ⅳ. Identificación de Brechas y Recomendaciones</h2>
+## Ⅳ. Identificación de Brechas y Recomendaciones
 
 <div class="card" style="background: #E5E7EB; padding: 1.5rem; margin-bottom: 2rem;">
   <h4 style="font-size: 1.25rem; color: #06B6D4;">De la Identidad Proyectada a la Percepción Real</h4>
@@ -165,10 +163,9 @@ toc: true
   </ul>
 </div>
 
-<hr style="margin: 2rem 0;">
+---
 
-<div class="tip" style="background: #FACC15; padding: 1.5rem; margin-top: 2rem;">
-  <b style="font-size: 1.25rem; color: #1E3A8A;">¿Por qué este enfoque?</b><br>
+<div class="tip" label="Dato Estratégico" style="background: #FACC15; padding: 1.5rem; margin-top: 2rem;">
   <span style="font-size: 1rem;">
     Esta metodología permite a Subiré anticipar oportunidades, mitigar riesgos y fortalecer su liderazgo digital, fundamentando cada decisión en datos verificables y en el entendimiento profundo de las dinámicas conversacionales de su audiencia objetivo.
   </span>

@@ -1,5 +1,6 @@
 ---
 title: Resonancia digital | Grupos de Facebook
+toc: true
 ---
 
 ```js
@@ -12,11 +13,11 @@ const facebookData = FileAttachment("../data/facebook_groups_resonance.json").js
 
 ```
 
-<h1 style="font-size: 2.5rem; color: #1E3A8A; margin-bottom: 1.5rem;">Grupos de Facebook: Resonancia del mundo digital alrededor de Subiré</h1>
+# Grupos de Facebook: Resonancia del mundo digital alrededor de Subiré
 
 Este reporte presenta los resultados preliminares obtenidos de la descarga y exploración de la información rescatada desde: Facebook, Reddit, SCINCE, DENUE y Google Maps para analizar el lugar que ocupa Subiré en el contexto escolar privado de la Zona Metropolitana de Guadalajara, así como el de su principal competencia: The American School Foundation de Guadalajara, la Prepa Tec Santa Anita, el Instituto de Ciencias, entre otros.
 
-<h2 style="font-size: 2rem; color: #1E3A8A; margin-bottom: 1.5rem;">Resonancia en Grupos de Facebook</h2>
+## Resonancia en Grupos de Facebook
 
 ![Directorio de Colegios Guadalajara y ZMG](../static/directorio.png)
 
@@ -39,13 +40,13 @@ Para estos grupos, se analizan cuatro métricas principales:
 - Comentarios: Interacciones en forma de comentarios
 - Compartidos: Veces que el contenido fue compartido
 
-<h3 style="font-size: 1.5rem; color: #059669;">Distribución de Tipos de Engagement</h3>
+### Distribución de Tipos de Engagement
 
 ```js
 multitimeline(facebookData, {height: 600})
 ```
 
-<h4 style="color: #0e7490;">Hallazgos Clave de la Distribución por Tipo de Interacción</h4>
+<div class="note" label="Hallazgos Clave de la Distribución por Tipo de Interacción">
 
 1. **Predominio y evolución de los Likes**
    - Los likes representan la forma más estable y numerosa de interacción en el ecosistema digital de Subiré, alineándose con lo descrito en la introducción sobre la importancia de la percepción digital como indicador de reputación y alcance institucional.
@@ -62,16 +63,19 @@ multitimeline(facebookData, {height: 600})
    - La correlación entre los picos de compartidos y los de comentarios/likes refuerza la idea de que los eventos o publicaciones que generan conversación también tienden a ser los que amplifican el alcance de la marca, aspecto clave para la estrategia de posicionamiento digital mencionada en la introducción.
    - Estos hallazgos sugieren que la selectividad en los compartidos puede ser utilizada como un indicador temprano de contenidos con potencial viral o de alto impacto reputacional.
 
-**Conclusiones parciales y relación con el objetivo del proyecto:**  
-El análisis de la distribución de interacciones confirma que la percepción digital de Subiré se construye a partir de una base sólida de engagement (likes), pero que los comentarios y compartidos actúan como sensores de temas críticos y oportunidades de amplificación. Estos patrones respaldan la hipótesis inicial del proyecto (ver @intro.md) sobre la importancia de monitorear no solo el volumen, sino la naturaleza y el contexto de la conversación digital para anticipar tendencias, identificar oportunidades de mejora y fortalecer el posicionamiento competitivo de la institución. El monitoreo sistemático de estos indicadores permitirá a Subiré adaptar su estrategia de comunicación, replicar contenidos exitosos y responder de manera proactiva ante posibles crisis o cambios en la percepción de la comunidad.
+</div>
 
-<h3 style="font-size: 1.5rem; color: #059669;">Engagement por Grupo</h3>
+<div class="tip" label="Conclusiones parciales y relación con el objetivo del proyecto">
+El análisis de la distribución de interacciones confirma que la percepción digital de Subiré se construye a partir de una base sólida de engagement (likes), pero que los comentarios y compartidos actúan como sensores de temas críticos y oportunidades de amplificación. Estos patrones respaldan la hipótesis inicial del proyecto (ver @intro.md) sobre la importancia de monitorear no solo el volumen, sino la naturaleza y el contexto de la conversación digital para anticipar tendencias, identificar oportunidades de mejora y fortalecer el posicionamiento competitivo de la institución. El monitoreo sistemático de estos indicadores permitirá a Subiré adaptar su estrategia de comunicación, replicar contenidos exitosos y responder de manera proactiva ante posibles crisis o cambios en la percepción de la comunidad.
+</div>
+
+## Engagement por Grupo
 
 ```js
 groupstimeline(facebookData, {height: 600})
 ```
 
-<h4 style="color: #0e7490;">Análisis Detallado por Grupo</h4>
+## Análisis Detallado por Grupo
 
 La visualización revela diferencias marcadas en la dinámica de engagement entre los dos principales grupos analizados: **Directorio de Colegios Guadalajara y ZMG** (área azul) y **Mejores Colegios de Guadalajara** (área amarilla).
 
@@ -93,31 +97,25 @@ La visualización revela diferencias marcadas en la dinámica de engagement entr
 **En resumen:**  
 El análisis detallado de la visualización permite identificar no solo los grupos más influyentes, sino también los periodos óptimos para intervenir y las oportunidades para equilibrar la presencia digital a lo largo del año, anticipando tanto picos de demanda como posibles caídas en la conversación.
 
-<h3 style="font-size: 1.5rem; color: #059669;">Implicaciones Estratégicas: Alineación con los Objetivos del Proyecto</h3>
+## Implicaciones Estratégicas: Alineación con los Objetivos del Proyecto
 
 Las siguientes implicaciones y recomendaciones se derivan directamente de los patrones de resonancia digital identificados y se alinean con los objetivos estratégicos planteados en [Objetivo y Alcance del Proyecto](../01_introduction/intro): fortalecer la percepción digital de Subiré, anticipar tendencias y optimizar el posicionamiento competitivo.
 
-1. **Optimización de Contenido y Narrativa para Impacto Estratégico**
-   - Utilizar el análisis de picos de likes y comentarios para identificar temáticas, formatos y estilos de publicación que mejor conectan con la audiencia, especialmente en los periodos clave del ciclo escolar y campañas institucionales, tal como se propone en el objetivo de generar insights accionables.
-   - Replicar y adaptar los contenidos que no solo generan likes, sino que también incentivan la conversación (comentarios) y la difusión (compartidos), maximizando así el alcance y la reputación digital, en línea con la meta de consolidar la presencia institucional.
-   - Aprovechar los periodos de menor actividad (septiembre-noviembre y vacaciones) para experimentar con nuevos formatos, historias de éxito y testimonios, manteniendo el interés y preparando el terreno para los siguientes picos de demanda, contribuyendo a la construcción de una presencia digital más sólida y continua.
-   - Ajustar la narrativa y el tono de los mensajes según el grupo y el momento del ciclo escolar, diferenciando la comunicación para padres en búsqueda activa de opciones educativas y para comunidades ya establecidas, reforzando la relevancia y pertinencia de la estrategia de contenidos.
+1. **Optimización de Contenido y Narrativa Basada en Temporalidad y Espacios Prioritarios**
+   - Aprovechar la identificación de picos de likes y comentarios no solo para definir temáticas y formatos exitosos, sino para calendarizar estratégicamente la publicación de estos contenidos en los periodos de mayor actividad detectados en cada grupo. Así, se maximiza el impacto en los momentos en que la audiencia está más receptiva y se refuerza la presencia institucional en los espacios digitales más relevantes.
+   - Replicar y adaptar los contenidos que generan conversación (comentarios) y difusión (compartidos), priorizando su publicación en los grupos y ventanas temporales donde históricamente se observa mayor resonancia, para amplificar el alcance y fortalecer la reputación digital de Subiré.
+   - Durante los periodos de menor actividad (como septiembre-noviembre y vacaciones), enfocar los esfuerzos de comunicación en los espacios disponibles, experimentando con nuevos formatos, historias de éxito y testimonios, y así mantener el interés y preparar el terreno para los siguientes picos de demanda.
+   - Ajustar la narrativa y el tono de los mensajes no solo según el grupo, sino también considerando la temporalidad específica de cada espacio, diferenciando la comunicación para padres en búsqueda activa de opciones educativas y para comunidades ya establecidas, y asegurando que la estrategia de contenidos sea relevante y oportuna en cada contexto.
 
-2. **Gestión Estratégica y Segmentada de Comunidad**
-   - Priorizar la presencia y participación en el grupo "Directorio de Colegios Guadalajara y ZMG" durante el primer semestre, y en "Mejores Colegios de Guadalajara" en el cierre y arranque de ciclo escolar, alineando la estrategia con los patrones de estacionalidad y los momentos de mayor toma de decisión, como se establece en los objetivos del informe.
-   - Implementar acciones específicas para reactivar la conversación en periodos de baja actividad, como dinámicas, encuestas o contenidos interactivos, respondiendo a las necesidades puntuales de cada comunidad y fomentando el engagement sostenido.
-   - Segmentar la comunicación y campañas según el perfil y ciclo de vida de cada grupo, aprovechando la complementariedad entre ambos para maximizar el alcance y la relevancia de la marca Subiré a lo largo del año.
-   - Mantener un calendario editorial flexible y adaptativo, que permita responder rápidamente a eventos coyunturales o temas emergentes detectados en los picos de comentarios y compartidos, anticipando oportunidades y riesgos.
+2. **Gestión Estratégica y Segmentada de Comunidad con Enfoque Temporal**
+   - Priorizar la presencia y participación en el grupo "Directorio de Colegios Guadalajara y ZMG" durante el primer semestre, y en "Mejores Colegios de Guadalajara" en el cierre y arranque de ciclo escolar, alineando la estrategia de comunicación con los patrones de estacionalidad y los momentos de mayor toma de decisión identificados en el análisis.
+   - Implementar acciones específicas para reactivar la conversación en periodos de baja actividad, como dinámicas, encuestas o contenidos interactivos, focalizando estos esfuerzos en los espacios y momentos donde la actividad suele disminuir, para sostener el engagement y evitar caídas prolongadas en la conversación.
+   - Segmentar la comunicación y campañas no solo por perfil de grupo, sino también por las ventanas temporales óptimas de cada comunidad, aprovechando la complementariedad entre ambos grupos para maximizar el alcance y la relevancia de la marca Subiré a lo largo del año.
+   - Mantener un calendario editorial flexible y adaptativo, que permita programar contenidos y acciones en función de la temporalidad detectada, y responder rápidamente a eventos coyunturales o temas emergentes en los espacios prioritarios, anticipando oportunidades y riesgos.
 
-3. **Monitoreo Proactivo y Respuesta Ágil para la Gestión de la Percepción**
-   - Establecer un sistema de monitoreo en tiempo real para identificar picos inusuales de actividad, especialmente en comentarios y compartidos, permitiendo anticipar tanto oportunidades (temas virales, interés genuino) como riesgos (controversias, crisis), en concordancia con el objetivo de anticipar tendencias y gestionar la reputación.
-   - Preparar protocolos de respuesta rápida para intervenir en conversaciones de alto engagement, potenciando mensajes positivos o gestionando posibles crisis antes de que escalen, asegurando una gestión proactiva de la percepción digital.
+3. **Monitoreo Proactivo y Respuesta Ágil Basados en Temporalidad y Espacios Clave**
+   - Establecer un sistema de monitoreo en tiempo real que no solo identifique picos inusuales de actividad en comentarios y compartidos, sino que también relacione estos picos con los espacios (grupos) y periodos específicos, permitiendo anticipar oportunidades (temas virales, interés genuino) o riesgos (controversias, crisis) y actuar en los canales más relevantes en cada momento.
+   - Preparar protocolos de respuesta rápida que consideren la temporalidad y el espacio digital donde ocurre la conversación de alto engagement, para intervenir de manera oportuna, potenciar mensajes positivos o gestionar posibles crisis antes de que escalen, asegurando una gestión proactiva y contextualizada de la percepción digital.
 
 <!-- ```js
 const facebookGroupNetworkData = FileAttachment("../data/fb_groups_with_comments_word_graph.json").json();
-```
-
-```js
-wordNetworkPlot(facebookGroupNetworkData, {height: 600,title: "Subiré Business School Word Network"})
-``` -->
-
