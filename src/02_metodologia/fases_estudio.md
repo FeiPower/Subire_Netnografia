@@ -84,7 +84,7 @@ toc: true
       </ul>
     </li>
     <li>
-      <b>Variables Qualitativas:</b>
+      <b>Variables Cualitativas:</b>
       <ul>
         <li>Narrativas predominantes asociadas a Subiré y competidores.</li>
         <li>Atributos de marca percibidos y valores institucionales reflejados.</li>
